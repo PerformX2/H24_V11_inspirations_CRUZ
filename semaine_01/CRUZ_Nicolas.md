@@ -1,7 +1,7 @@
-### Nicolas Cruz
+## Nicolas Cruz
 
 
 
 Voici une photo de moi
 
-### Intérêts dans le multimedia
+## Intérêts dans le multimedia
