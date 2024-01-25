@@ -5,4 +5,4 @@
 Au-dessus on retrouve une photo de moi datant du 2 octobre 2023
 
 ## Intérêts dans le multimedia 
-Je suis particulièrement intéressé par l'aspect audiovisuel du programme. Je désir beaucoup de créer et innover.
+Je suis particulièrement intéressé par l'aspect audiovisuel du programme. Je désir beaucoup de créer et innover. Pour cette raison, je vais continuer mes études après cette technique.
