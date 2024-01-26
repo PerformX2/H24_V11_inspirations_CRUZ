@@ -9,4 +9,4 @@ Je suis particulièrement intéressé par l'aspect audiovisuel du programme. Je 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
 
-Je crois que 
+Voici l'exposition que je souhaite partager une expérience pour mieux se préparer en oeuvre et dispositifs multimedia.
