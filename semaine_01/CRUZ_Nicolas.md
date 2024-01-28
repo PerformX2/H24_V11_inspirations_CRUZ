@@ -1,6 +1,6 @@
 ## Nicolas Cruz
 
-![Photo_NC_présentation](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/semaine_01/Photo_NC_pr%C3%A9sentation.jpg)
+![Photo_NC_présentation.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/semaine_01/Photo_NC_pr%C3%A9sentation.jpg)
 
 Au-dessus on retrouve une photo de moi datant du 2 octobre 2023
 
