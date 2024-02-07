@@ -15,3 +15,5 @@ https://macm.org/activites/conference-de-jeremy-shaw/
 https://reseauartactuel.org/evenement/jeremy-shaw-phase-shifting-index/
 
 https://thetyee.ca/Culture/2023/07/04/Jeremy-Shaw-Phase-Shifting-Index/
+
+https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/ (informations sur les qurlques installations et outils pour filmer, etc)
