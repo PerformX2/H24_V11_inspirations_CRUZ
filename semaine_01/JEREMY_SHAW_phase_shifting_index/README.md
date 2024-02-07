@@ -1,1 +1,1 @@
-Voici les informations que j'ai assemblé pour mon travail 01
+Voici des informations en lien avec l'exposition de Jérémy Shaw que j'ai assemblé pour le TP1 
