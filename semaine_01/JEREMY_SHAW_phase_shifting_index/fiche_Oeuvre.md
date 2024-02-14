@@ -27,7 +27,7 @@ On a visité l'exposition le 31 janvier 2023.
 Phase Shifting Index
 Jeremy Shaw
 2020
-Description: C'est une experience anthropologique de sept groupe de danseurs différents. Les sept groupes parlent à la caméra et ils dansent des types dee danses distinctes.
+Description: C'est une experience anthropologique de sept groupe de danseurs différents. Les sept groupes sont divisé par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront tous la même danse en même temps.
 
 
 
