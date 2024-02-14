@@ -22,4 +22,7 @@ https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/ (info
 
 JEREMY SHAW : PHASE SHIFTING INDEX
 Fonderie Darling
-Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024. 
+Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
+On a visité l'exposition le 31 janvier 2023.
+Jeremy Shaw
+
