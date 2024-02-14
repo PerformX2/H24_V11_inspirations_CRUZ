@@ -38,9 +38,9 @@ Description: C'est une expérience anthropologique de sept groupes de danseurs d
 
 Type d'instalation: Cette oeuvre est contemplative, car on est exposé uniquement par les sept vidéos qui jouent autour de la salle avec le son des vidéos.
 
-Mise en espace:
+Mise en espace: (croquis ou images)
 
-Composantes et techniques:
+Composantes et techniques: Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis.
 
 Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans et plusieurs hauts-parleurs qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. 
 
