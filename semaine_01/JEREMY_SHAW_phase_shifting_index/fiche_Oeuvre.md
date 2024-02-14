@@ -44,9 +44,9 @@ Composantes et techniques:
 
 Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans et plusieurs hauts-parleurs qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. 
 
-Expérience vécue:
+Expérience vécue: 
 
-Ce que j'ai aimé, ce qui m'a donner des idées: Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails.
+Ce que j'ai aimé, ce qui m'a donner des idées: Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jérémy Shaw. Parce que les petits changemets font les plus grandes différences.
 
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
 
