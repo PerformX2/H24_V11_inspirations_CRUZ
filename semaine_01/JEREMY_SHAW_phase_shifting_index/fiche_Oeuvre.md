@@ -34,9 +34,11 @@ Nom de l'artiste: Jeremy Shaw
 
 Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
 
-Description: C'est une experience anthropologique de sept groupe de danseurs différents. Les sept groupes sont divisé par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. (ajouter les 8 images)
+Description: C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps.(ajouter les 8 images / Cartel + diverses vues)
 
-Type d'installation: La salle de l'exposition est composée de sept grands écrans et plusieurs hauts-parleurs qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. 
+Type d'instalation: Cette oeuvre est contemplative, car on est exposé uniquement par les sept vidéos qui jouent autour de la salle avec le son des vidéos.
+
+Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans et plusieurs hauts-parleurs qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. 
 
 
 
