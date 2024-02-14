@@ -24,5 +24,10 @@ JEREMY SHAW : PHASE SHIFTING INDEX
 Fonderie Darling
 Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
 On a visité l'exposition le 31 janvier 2023.
+Phase Shifting Index
 Jeremy Shaw
+2020
+Description: C'est une experience anthropologique de sept groupe de danseurs différents. Les sept groupes parlent à la caméra et ils dansent des types dee danses distinctes.
+
+
 
