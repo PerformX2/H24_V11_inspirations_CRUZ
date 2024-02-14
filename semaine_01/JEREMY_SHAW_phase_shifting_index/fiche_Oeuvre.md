@@ -30,7 +30,7 @@ Date de votre visite: On a visité l'exposition le 31 janvier 2023.
 
 Titre de l'oeuvre: Phase Shifting Index
 
-Nom de l'artiste: Jeremy Shaw
+Nom de l'artiste: Jeremy Shaw (Cartel)
 
 Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
 
@@ -42,9 +42,9 @@ Mise en espace: (croquis ou images)
 
 Composantes et techniques: Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis.
 
-Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans et plusieurs hauts-parleurs qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. 
+Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. (Image toit)
 
-Expérience vécue: 
+Expérience vécue: (documenter l'interactivité à partir des vidéos) (courts vidéos)
 
 Ce que j'ai aimé, ce qui m'a donner des idées: Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jérémy Shaw. Parce que les petits changemets font les plus grandes différences.
 
