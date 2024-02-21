@@ -3,10 +3,10 @@
 ![Collage exposition Jérémy Shaw Phase Shifting Index](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d963d3ed798f4b1ff450d1af8e73392a13fe4147/semaine_01/JEREMY_SHAW_phase_shifting_index/J%C3%A9r%C3%A9my_Shaw_expositon_collage.jpg)
 
 
-##Nom de l'exposition
+## Nom de l'exposition
 JEREMY SHAW : PHASE SHIFTING INDEX
 
-###Lieu de mise en exposition
+### Lieu de mise en exposition
 Fonderie Darling
 
 Type d'exposition: Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
