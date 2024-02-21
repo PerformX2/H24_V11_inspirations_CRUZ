@@ -91,3 +91,5 @@ Voici les sources qui m'ont aider à forger mes idées et à trouver des informa
 
 (https://macm.org/en/exhibitions/jeremy-shaw/)
 (https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
+(https://reseauartactuel.org/evenement/jeremy-shaw-phase-shifting-index/)
+(https://thetyee.ca/Culture/2023/07/04/Jeremy-Shaw-Phase-Shifting-Index/)
