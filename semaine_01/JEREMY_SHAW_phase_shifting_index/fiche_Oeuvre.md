@@ -6,12 +6,6 @@ Source: mes photos
 
 Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
 
-Recherches en lien: (Site web Fonderie Darling)[https://fonderiedarling.org/en/Phase-Shifting-Index]
-
-https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/ (informations sur les qurlques installations et outils pour filmer, etc)
-
-
-
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
 Lieu de mise en exposition: Fonderie Darling
@@ -43,6 +37,12 @@ Ce que j'ai aimé, ce qui m'a donner des idées: Cette oeuvre me donne envi de m
 À mon opinion, l'exposition était court, mais c'est  
 
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
+
+
+INFO EXTRA: Recherches en lien: (Site web Fonderie Darling)[https://fonderiedarling.org/en/Phase-Shifting-Index]
+
+https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/ (informations sur les qurlques installations et outils pour filmer, etc)
+
 
 
 
