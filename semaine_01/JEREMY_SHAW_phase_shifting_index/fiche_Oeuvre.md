@@ -78,13 +78,13 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 L'artiste a fourni un cahier qui explique les sept groupes différents.
 
 ![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 4](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 5](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 6](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 7](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 8](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
+![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_2.JPG)
+![Page 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_3.JPG)
+![Page 4](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_4.JPG)
+![Page 5](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_5.JPG)
+![Page 6](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_6.JPG)
+![Page 7](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_7.JPG)
+![Page 8](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_8.JPG)
 
 
 Voici une source qui m'a beaucoup aider à forger mes idées et à trouver des informations précises:
