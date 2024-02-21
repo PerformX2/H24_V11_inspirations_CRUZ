@@ -75,7 +75,7 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
 
 ## Petit cahier d'explication
-L'artiste a fourni un cahier qui explique les sept groupes différents.
+L'artiste a fourni un cahier qui explique les sept groupes différents. Je l'ajoute ci-dessous.
 
 ![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
 ![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_2.JPG)
