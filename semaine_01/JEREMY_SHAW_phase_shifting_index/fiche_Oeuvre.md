@@ -11,7 +11,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
 
-(https://youtube.com/shorts/wzXOH1Ahem8)
+[![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 
 (https://youtu.be/tdRKN6O79wQ)
 
