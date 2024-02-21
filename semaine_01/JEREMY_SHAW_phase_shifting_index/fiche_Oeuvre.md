@@ -13,6 +13,14 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 (https://youtube.com/shorts/wzXOH1Ahem8)
 
+(https://youtu.be/tdRKN6O79wQ)
+
+()
+
+()
+
+()
+
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
 Lieu de mise en exposition: Fonderie Darling
