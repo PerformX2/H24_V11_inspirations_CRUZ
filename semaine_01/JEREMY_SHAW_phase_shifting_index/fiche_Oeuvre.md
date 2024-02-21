@@ -74,5 +74,5 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
 
 
-Voici une source qui m'a beaucoup aider à forger mes idées:
+Voici une source qui m'a beaucoup aider à forger mes idées et à trouver des informations précises:
 (https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/)
