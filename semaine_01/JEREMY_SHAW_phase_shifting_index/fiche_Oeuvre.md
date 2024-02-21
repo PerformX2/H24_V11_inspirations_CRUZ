@@ -13,7 +13,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 
-(https://youtu.be/tdRKN6O79wQ)
+[![Danse robotique](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/20566fd79d022389ed2066e10a6bbe3b9c256024/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_dance_robotique.png)](https://youtu.be/tdRKN6O79wQ)
 
 (https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
 
