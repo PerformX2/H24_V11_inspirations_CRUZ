@@ -67,8 +67,14 @@ Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimaliste
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
 
-## Information additionelle
+# Informations additionelles
+
+## Avant l'exposition
 En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jérémy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
+
+## Petit cahier d'explication
+L'artiste a fourni un cahier qui explique les sept groupes différents.
+![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
 
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
