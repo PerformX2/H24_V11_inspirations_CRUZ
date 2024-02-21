@@ -3,8 +3,9 @@
 (insérer un collage)
 Source: mes photos
 
-
 Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
+
+![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f65e95e0d01eaed5f5d95fc5c9b8ca677c8f026d/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche%20de%20l'exposition.JPG)
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
