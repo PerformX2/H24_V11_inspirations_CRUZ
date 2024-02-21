@@ -31,9 +31,12 @@ Description: C'est une expérience anthropologique de sept groupes de danseurs d
 
 
 
-Type d'instalation: Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
+## Type d'instalation Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
 
-Mise en espace: (croquis ou images)
+## Mise en espace 
+
+[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
+
 
 Composantes et techniques: Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis.
 
@@ -61,14 +64,9 @@ Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que v
 
 En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jérémy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
 
-![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
-lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
-
-
-
-[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
+![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
 
 
 
