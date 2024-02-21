@@ -87,6 +87,6 @@ L'artiste a fourni un cahier qui explique les sept groupes différents.
 ![Page 8](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_8.JPG)
 
 
-Voici une source qui m'a beaucoup aider à forger mes idées et à trouver des informations précises:
+Voici les sources qui m'ont aider à forger mes idées et à trouver des informations précises:
 
 (https://macm.org/en/exhibitions/jeremy-shaw/)
