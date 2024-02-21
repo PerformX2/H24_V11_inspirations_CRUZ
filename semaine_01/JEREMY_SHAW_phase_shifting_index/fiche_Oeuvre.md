@@ -52,6 +52,8 @@ Mise en espace: (croquis ou images)
 
 Composantes et techniques: Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis.
 
+![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
+
 Éléments nécessaires à la mise en exposition: La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. (Image toit)
 
 Expérience vécue: (documenter l'interactivité à partir des vidéos) (courts vidéos)
