@@ -36,16 +36,13 @@ Cette oeuvre est contemplative, car on est exposé simplement par les sept vidé
 
 [![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
 
-
 ## Composantes et techniques 
 Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis. 
-
 
 ![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
 
 ## Éléments nécessaires à la mise en exposition 
 La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. Comme indiqué dans le cartel de l'entrée, il y a un avertissement pour le publique sensible qui pourraient être affectés par l'oeuvre.
-
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
