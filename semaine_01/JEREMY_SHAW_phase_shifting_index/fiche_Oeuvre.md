@@ -23,9 +23,11 @@ Jeremy Shaw
 
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
 
-Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
+## Année de réalisation
+Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
 
-Description: C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
+## Description
+C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
 
 ![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
 
@@ -59,11 +61,11 @@ La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-p
 
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
-Ce que j'ai aimé, ce qui m'a donner des idées: Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jérémy Shaw. Parce que les petits changemets font les plus grandes différences.
+## Ce que j'ai aimé, ce qui m'a donner des idées
+Cette oeuvre me donne envi de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jérémy Shaw. Parce que les petits changemets font les plus grandes différences.
 
-À mon opinion, l'exposition était court, mais c'est  
-
-Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
+## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
 
 En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jérémy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
 
