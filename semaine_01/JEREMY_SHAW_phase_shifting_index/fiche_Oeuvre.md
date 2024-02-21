@@ -1,6 +1,6 @@
 # Travail 01 - Exposition de Jérémy Shaw
 
-[![]]()
+![Collage exposition Jérémy Shaw Phase Shifting Index]()
 
 
 Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
