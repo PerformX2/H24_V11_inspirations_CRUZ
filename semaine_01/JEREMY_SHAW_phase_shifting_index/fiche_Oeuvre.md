@@ -9,7 +9,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
-(https://youtu.be/RpNF4Zk65Yw)
+[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
 
 (https://youtube.com/shorts/wzXOH1Ahem8)
 
