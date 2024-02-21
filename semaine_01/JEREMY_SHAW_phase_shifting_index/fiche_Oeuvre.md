@@ -42,7 +42,7 @@ Cette oeuvre est contemplative, car on est exposé simplement par les sept vidé
 
 ## Composantes et techniques 
 Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis.
-Source:https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/
+
 
 ![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
 
@@ -72,3 +72,6 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
+
+
+[Voici une source qui m'a beaucoup aider à forger mes idées](https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/)
