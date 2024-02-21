@@ -2,8 +2,19 @@
 
 ![Collage exposition Jérémy Shaw Phase Shifting Index](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d963d3ed798f4b1ff450d1af8e73392a13fe4147/semaine_01/JEREMY_SHAW_phase_shifting_index/J%C3%A9r%C3%A9my_Shaw_expositon_collage.jpg)
 
-
 Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
+
+Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
+
+Lieu de mise en exposition: Fonderie Darling
+
+Type d'exposition: Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
+
+Date de votre visite: On a visité l'exposition le 31 janvier 2023.
+
+Titre de l'oeuvre: Phase Shifting Index
+
+Nom de l'artiste: Jeremy Shaw (Cartel)
 
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
 
@@ -23,17 +34,6 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 CARTEL 3 + lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
 
-Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
-
-Lieu de mise en exposition: Fonderie Darling
-
-Type d'exposition: Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
-
-Date de votre visite: On a visité l'exposition le 31 janvier 2023.
-
-Titre de l'oeuvre: Phase Shifting Index
-
-Nom de l'artiste: Jeremy Shaw (Cartel)
 
 Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
 
