@@ -69,7 +69,7 @@ Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimal
 # Informations additionnelles
 
 ## Avant l'exposition
-En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jeremy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
+En plus de son exposition, il y a des oeuvres assez importantes en lien avec la liberté et la drogue parce que Jeremy Shaw essaye de nous inculquer cette la thématique. Les oeuvres empruntés appartiennent à Bradley Ertaskiran. Elles sont présentés sur les murs avant d'entrer dans l'expérience audiovisuelle de 35 minutes.
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
