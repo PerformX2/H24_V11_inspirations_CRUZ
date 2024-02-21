@@ -19,7 +19,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Danse groupe](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/52f2b970e7fbf307f98800fd9896f2b4854537a1/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse_groupe.png)](https://youtu.be/A8ky_-8Pum8)
 
-(https://youtu.be/2-OoxMN9bgM)
+[![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 CARTEL 3 + lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
 
