@@ -8,7 +8,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
 [![2_groupes_dancent](https://img.youtube.com/vi/)]([https://youtube.com/shorts/](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
-https://youtube.com/shorts/F0KPy2_7XhI?feature=share
+https://youtube.com/shorts/F0KPy2_7XhI?   feature=share
 
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
