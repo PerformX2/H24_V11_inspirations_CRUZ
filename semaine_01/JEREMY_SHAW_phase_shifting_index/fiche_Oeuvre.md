@@ -41,7 +41,7 @@ Cette oeuvre est contemplative, car on est exposé simplement par les sept vidé
 
 
 ## Composantes et techniques 
-Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis. Comme indiqué dans le cartel de l'entrée, il y a un avertissement pour les gens sensibles qui pourraient être affectés par l'oeuvre.
+Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'assoir, le cablage pour tous les dispositifs électroniques présents, le tapis. Comme indiqué dans le cartel de l'entrée, il y a un avertissement pour le publique sensible qui pourraient être affectés par l'oeuvre.
 
 
 ![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
