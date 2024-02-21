@@ -90,3 +90,4 @@ L'artiste a fourni un cahier qui explique les sept groupes différents.
 Voici les sources qui m'ont aider à forger mes idées et à trouver des informations précises:
 
 (https://macm.org/en/exhibitions/jeremy-shaw/)
+(https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
