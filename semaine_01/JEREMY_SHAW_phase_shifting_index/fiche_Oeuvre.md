@@ -15,11 +15,11 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 (https://youtu.be/tdRKN6O79wQ)
 
-()
+(https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
 
-()
+(https://youtu.be/A8ky_-8Pum8)
 
-()
+(https://youtu.be/2-OoxMN9bgM)
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
