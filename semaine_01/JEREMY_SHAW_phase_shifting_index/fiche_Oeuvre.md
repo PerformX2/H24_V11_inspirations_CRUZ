@@ -23,6 +23,14 @@ Jeremy Shaw
 
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
 
+Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
+
+Description: C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
+
+CARTEL 3 + lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
+
+
+
 [![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
 [![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
@@ -37,12 +45,7 @@ Jeremy Shaw
 
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
-CARTEL 3 + lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
 
-
-Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
-
-Description: C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaisable. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment que les écrans devient gris et sans signal. (ajouter les 8 images / Cartel + diverses vues)
 
 Type d'instalation: Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
 
