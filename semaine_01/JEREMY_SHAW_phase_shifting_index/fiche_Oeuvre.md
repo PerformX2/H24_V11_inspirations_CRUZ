@@ -27,7 +27,7 @@ Année de réalisation: Après avoir atteint un sommet dans sa carrière, Jéré
 
 Description: C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
 
-![Cartel 3]()
+![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
 lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
 
 
