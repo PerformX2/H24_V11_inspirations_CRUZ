@@ -19,7 +19,7 @@ On a visité l'exposition le 31 janvier 2023.
 Phase Shifting Index
 
 ## Nom de l'artiste
-Jeremy Shaw (Cartel)
+Jeremy Shaw 
 
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
 
