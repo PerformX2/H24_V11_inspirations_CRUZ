@@ -17,7 +17,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Danse agitée folle](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7f5448a354620322e5d0295d02ab65cf966570d8/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse%20agit%C3%A9e_folle.png)](https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
 
-(https://youtu.be/A8ky_-8Pum8)
+[![Danse groupe](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/52f2b970e7fbf307f98800fd9896f2b4854537a1/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse_groupe.png)](https://youtu.be/A8ky_-8Pum8)
 
 (https://youtu.be/2-OoxMN9bgM)
 
