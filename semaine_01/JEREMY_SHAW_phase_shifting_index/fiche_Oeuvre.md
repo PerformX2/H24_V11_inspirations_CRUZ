@@ -6,7 +6,8 @@ Source: mes photos
 Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
 
 ![Affiche de l'expositiom.jpg](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/db154eb4d3dcd4ebc2a7d0bdeaa53c9c1e833e15/semaine_01/JEREMY_SHAW_phase_shifting_index/Affiche_exposition.JPG)
-![2_groupes_dancent](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/09fb1999f1e725bfb45cdb5dda940ebdfb1db2bc/semaine_01/JEREMY_SHAW_phase_shifting_index/2_groupes_dancent.mp4)
+
+(https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/09fb1999f1e725bfb45cdb5dda940ebdfb1db2bc/semaine_01/JEREMY_SHAW_phase_shifting_index/2_groupes_dancent.mp4)
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
