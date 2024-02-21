@@ -9,8 +9,6 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Exemple_dances](CAPTURE)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
-https://youtube.com/shorts/F0KPy2_7XhI?   feature=share
-
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
