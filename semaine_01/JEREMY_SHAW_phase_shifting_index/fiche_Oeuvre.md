@@ -21,6 +21,8 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 (https://youtu.be/2-OoxMN9bgM)
 
+CARTEL 3 + lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
+
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
 Lieu de mise en exposition: Fonderie Darling
