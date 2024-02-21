@@ -32,7 +32,6 @@ C'est une expérience anthropologique de sept groupes de danseurs différents. L
 ![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
 
 
-
 ## Type d'instalation 
 Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
 
