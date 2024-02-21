@@ -30,21 +30,6 @@ Description: C'est une expérience anthropologique de sept groupes de danseurs d
 ![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
 
 
-[![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
-
-[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
-
-[![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
-
-[![Danse robotique](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/20566fd79d022389ed2066e10a6bbe3b9c256024/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_dance_robotique.png)](https://youtu.be/tdRKN6O79wQ)
-
-[![Danse agitée folle](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7f5448a354620322e5d0295d02ab65cf966570d8/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse%20agit%C3%A9e_folle.png)](https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
-
-[![Danse groupe](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/52f2b970e7fbf307f98800fd9896f2b4854537a1/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse_groupe.png)](https://youtu.be/A8ky_-8Pum8)
-
-[![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
-
-
 
 Type d'instalation: Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
 
@@ -68,6 +53,20 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
 lien (https://mendeswooddm.com/exhibitions/286/works/artworks-48551-jeremy-shaw-cathartic-illustration-amplified-2023/)
+
+[![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
+
+[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
+
+[![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
+
+[![Danse robotique](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/20566fd79d022389ed2066e10a6bbe3b9c256024/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_dance_robotique.png)](https://youtu.be/tdRKN6O79wQ)
+
+[![Danse agitée folle](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7f5448a354620322e5d0295d02ab65cf966570d8/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse%20agit%C3%A9e_folle.png)](https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
+
+[![Danse groupe](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/52f2b970e7fbf307f98800fd9896f2b4854537a1/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse_groupe.png)](https://youtu.be/A8ky_-8Pum8)
+
+[![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 INFO EXTRA: Recherches en lien: (Site web Fonderie Darling)[https://fonderiedarling.org/en/Phase-Shifting-Index]
 
