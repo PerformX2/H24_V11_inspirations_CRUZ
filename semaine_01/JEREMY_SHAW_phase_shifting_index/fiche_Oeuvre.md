@@ -29,9 +29,6 @@ Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 
 ## Description
 C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
 
-![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
-
-
 ## Type d'instalation 
 Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
 
@@ -48,6 +45,12 @@ Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'
 
 ## Éléments nécessaires à la mise en exposition 
 La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'assoir sont fait d'un doux tapis gris. Comme indiqué dans le cartel de l'entrée, il y a un avertissement pour le publique sensible qui pourraient être affectés par l'oeuvre.
+
+
+![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
+
+![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
+
 ## Expérience vécue
 
 [![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
