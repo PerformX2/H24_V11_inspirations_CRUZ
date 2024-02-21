@@ -15,7 +15,7 @@ Ce collage permet de résumer à quoi ressemble le lieu et les éléments import
 
 [![Danse robotique](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/20566fd79d022389ed2066e10a6bbe3b9c256024/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_dance_robotique.png)](https://youtu.be/tdRKN6O79wQ)
 
-(https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
+[![Danse agitée folle](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7f5448a354620322e5d0295d02ab65cf966570d8/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse%20agit%C3%A9e_folle.png)](https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
 
 (https://youtu.be/A8ky_-8Pum8)
 
