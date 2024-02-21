@@ -2,7 +2,6 @@
 
 ![Collage exposition Jérémy Shaw Phase Shifting Index](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d963d3ed798f4b1ff450d1af8e73392a13fe4147/semaine_01/JEREMY_SHAW_phase_shifting_index/J%C3%A9r%C3%A9my_Shaw_expositon_collage.jpg)
 
-Ce collage permet de résumer à quoi ressemble le lieu et les éléments importants avec l'expositon de la Fonderie Darling.
 
 Nom de l'exposition: JEREMY SHAW : PHASE SHIFTING INDEX
 
