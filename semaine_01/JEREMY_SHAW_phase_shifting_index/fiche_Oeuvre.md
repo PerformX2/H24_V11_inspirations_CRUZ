@@ -66,7 +66,7 @@ Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimal
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
 
-# Informations additionelles
+# Informations additionnelles
 
 ## Avant l'exposition
 En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jérémy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
