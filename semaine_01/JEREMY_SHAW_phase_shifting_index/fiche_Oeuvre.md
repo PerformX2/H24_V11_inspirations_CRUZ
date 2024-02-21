@@ -1,4 +1,4 @@
-# Travail 01 - Exposition de Jérémy Shaw
+# Travail 01 - Exposition de Jeremy Shaw
 
 ![Collage exposition Jérémy Shaw Phase Shifting Index](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d963d3ed798f4b1ff450d1af8e73392a13fe4147/semaine_01/JEREMY_SHAW_phase_shifting_index/J%C3%A9r%C3%A9my_Shaw_expositon_collage.jpg)
 
@@ -61,15 +61,15 @@ La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-p
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
-Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jérémy Shaw. Parce que les petits changements font les plus grandes différences.
+Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jeremy Shaw. Parce que les petits changements font les plus grandes différences.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-À mon opinion, Jérémy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
+À mon opinion, Jeremy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
 
 # Informations additionnelles
 
 ## Avant l'exposition
-En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jérémy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
+En plus de son exposition, il y a des oeuvres assez importante en lien avec la thématique de la liberté et la drogue que Jeremy Shaw essaye de nous inculqué. Les oeuvres emprunté appartiennent à Bradley Ertaskiran. Elles sont présenté sur les murs avant d'entrez dans l'expérience audiovisuelle de 35 minutes.
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
