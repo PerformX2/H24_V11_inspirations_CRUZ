@@ -75,4 +75,4 @@ En plus de son exposition, il y a des oeuvres assez importante en lien avec la t
 
 
 Voici une source qui m'a beaucoup aider à forger mes idées et à trouver des informations précises:
-(https://thepolygon.ca/news/press-release-jeremy-shaw-phase-shifting-index/)
+(https://macm.org/en/exhibitions/jeremy-shaw/)
