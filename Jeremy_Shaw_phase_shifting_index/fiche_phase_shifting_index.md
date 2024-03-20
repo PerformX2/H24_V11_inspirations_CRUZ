@@ -1,6 +1,6 @@
 # Travail 01 - Exposition de Jeremy Shaw
 
-![image Jérémy_Shaw_exposition_collage](Medias/Jérémy_Shaw_exposition_collage.jpg)
+![image Jérémy_Shaw_exposition_collage](Medias/Jérémy_Shaw_expositon_collage.jpg)
 
 
 ## Nom de l'exposition
