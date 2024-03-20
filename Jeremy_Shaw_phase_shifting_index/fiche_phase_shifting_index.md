@@ -1,6 +1,6 @@
 # Travail 01 - Exposition de Jeremy Shaw
 
-![Collage exposition Jérémy Shaw Phase Shifting Index](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d963d3ed798f4b1ff450d1af8e73392a13fe4147/semaine_01/JEREMY_SHAW_phase_shifting_index/J%C3%A9r%C3%A9my_Shaw_expositon_collage.jpg)
+![image Jérémy_Shaw_exposition_collage](Medias/Jérémy_Shaw_exposition_collage)
 
 
 ## Nom de l'exposition
