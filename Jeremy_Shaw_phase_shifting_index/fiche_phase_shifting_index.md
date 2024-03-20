@@ -22,7 +22,7 @@ Phase Shifting Index
 Jeremy Shaw 
 
 ![image Affiche_exposition2](Medias/Affiche_exposition2.png)
-<img src="Medias/Affiche_exposition2.png" alt="Medias/Affiche_exposition2" width="400"›
+<img src="Medias/Affiche_exposition2.png" alt="Medias/Affiche_exposition2" width="400" align="left"›
 
 ## Année de réalisation
 Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
