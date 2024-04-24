@@ -1,4 +1,3 @@
-![Image exemple oeuvre](Medias/exemple_oeuvre.jpg)
 # Conférence de Jade Séguela #
 La visite de Jade Séguela présente son travail et lui de son équipe. Je vais nommer les éléments les plus marquant au coeur de la rencontre.
 
