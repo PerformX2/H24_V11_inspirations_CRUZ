@@ -8,6 +8,5 @@ _«Nous ne sommes pas entrain de sauver des vies, nous faisons juste de l'art»_
 
 -Rafael Lozano-Hemmer
 
-Voici le répertoire du studio Antimodular pour plus d'informations:
-https://github.com/antimodular/Best-practices-for-conservation-of-media-art
+Voici le répertoire du studio Antimodular pour plus d'informations: https://github.com/antimodular/Best-practices-for-conservation-of-media-art
 
