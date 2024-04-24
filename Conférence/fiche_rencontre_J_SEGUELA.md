@@ -6,6 +6,6 @@ La visite de Jade Séguela présente son travail et lui de son équipe. Son équ
 
 _«Nous ne sommes pas entrain de sauver des vies, nous faisons juste de l'art»_ -Rafael Lozano-Hemmer
 
-Voici le répertoire de antimodular:
+Voici le répertoire du studio Antimodular:
 https://github.com/antimodular/Best-practices-for-conservation-of-media-art
 
