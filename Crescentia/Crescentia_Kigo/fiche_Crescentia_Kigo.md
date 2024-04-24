@@ -1,1 +1,1 @@
-
+Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illuminer bcp plus le monde virtuel et il y a des limuieres acrochée aux supports metalliques du toits. La “safezone” est illuminées
