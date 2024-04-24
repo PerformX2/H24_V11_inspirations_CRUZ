@@ -5,11 +5,11 @@ Pour commencer, son équipe de gestion est situé au studio Antimodular Research
 
 Pour conclure, c'est une équipe de gestion très minutieuse. L'équipe s'assure vraiment de ne pas oublier aucun détail comme la créditation ou même la prévision du matériel. J'aime bien que l'équipe pense au côté écologique, malgré les grosses dépenses et une grande utilisation de matériel.
 
-### Voici une photo d'une partie de l'inventaire de Sydney:### 
+### Voici une photo d'une partie de l'inventaire de Sydney:
 ![Image exemple_inventaire_sydney](Medias/exemple_inventaire_sydney.jpg)
 
 
- ### Voici le répertoire du studio Antimodular pour plus d'informations:### https://github.com/antimodular/Best-practices-for-conservation-of-media-art
+ ### Voici le répertoire du studio Antimodular pour plus d'informations: https://github.com/antimodular/Best-practices-for-conservation-of-media-art
 
 _«Nous ne sommes pas entrain de sauver des vies, nous faisons juste de l'art»_ 
 
