@@ -1,1 +1,3 @@
+Le jeu consiste à esquiver les obstavles rectangulaires. Il faut toucher les X pour recevoir un bonus. Souvent les joueurs qui sont sur le bord de la safe zone bug ton personnages en le faisent disparaitre jusqu’a tant qu’il revienne plus proche du safe zone. Parfois sa capte les jouers à 1.50 metres, alors ips doivent mettre une un deuxieme safe border pour que les gens passant ou spectateurs n’affecte l’experience des joueurs.
+
 Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illuminer bcp plus le monde virtuel et il y a des limuieres acrochée aux supports metalliques du toits. La “safezone” est illuminées
