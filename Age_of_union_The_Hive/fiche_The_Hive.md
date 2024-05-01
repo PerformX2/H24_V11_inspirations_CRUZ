@@ -14,7 +14,7 @@ entre 60 et 70 pieces
 nom du materiel:
 sur la tablette on peut controler le son et d’autres réglages de la sphere
 
-#Age of Union - The Hive
+# Age of Union - The Hive
 
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
