@@ -32,10 +32,10 @@ Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien 
 On a visité l'exposition le 31 janvier 2023.
 
 ## Titre de l'oeuvre
-Phase Shifting Index
+The Hive
 
-## Nom de l'artiste
-Jeremy Shaw 
+## Nom de l'exposition
+Age of Union
 
 ![image Affiche_exposition2](Medias/Affiche_exposition.JPG)
 
