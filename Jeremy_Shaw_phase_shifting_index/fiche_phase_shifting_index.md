@@ -13,7 +13,7 @@ Fonderie Darling - 745 Ottawa Rue, Montréal QC H3C1R8
 Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
 
 ## Date de votre visite
-On a visité l'exposition le 31 janvier 2023.
+On a visité l'exposition le 31 janvier 2024.
 
 ## Titre de l'oeuvre
 Phase Shifting Index
