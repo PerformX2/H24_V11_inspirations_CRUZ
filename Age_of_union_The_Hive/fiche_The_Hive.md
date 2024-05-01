@@ -26,7 +26,7 @@ Age of Union : The Hive
 7049 Rue Saint-Urbain, Montreal QC H2S 3H4
 
 ## Type d'exposition
-Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
+Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien dirigant à la collection permanante: (https://ageofunion.com/permanent-collection/)
 
 ## Date de votre visite
 On a visité l'exposition le 31 janvier 2023.
