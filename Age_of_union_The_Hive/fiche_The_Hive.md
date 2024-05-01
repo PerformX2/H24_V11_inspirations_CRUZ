@@ -20,10 +20,10 @@ sur la tablette on peut controler le son et d’autres réglages de la sphere
 
 
 ## Nom de l'exposition
-JEREMY SHAW : PHASE SHIFTING INDEX
+Age of Union : The Hive
 
 ## Lieu de mise en exposition
-Fonderie Darling - 745 Ottawa Rue, Montréal QC H3C1R8
+7049 Rue Saint-Urbain, Montreal QC H2S 3H4
 
 ## Type d'exposition
 Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
