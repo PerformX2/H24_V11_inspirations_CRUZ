@@ -75,7 +75,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
-Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jeremy Shaw. Parce que les petits changements font les plus grandes différences.
+J'ai adoré cette sortie, parce que j'ai sous-estim. le lien intéressant entre la ruche et notre écosystème.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 À mon opinion, Jeremy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
