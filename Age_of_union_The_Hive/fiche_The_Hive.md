@@ -40,7 +40,7 @@ Age of Union
 ![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
 ## Année de réalisation
-Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
+Entre 2023 et 2024 selon l'assembleur du dôme.
 
 ## Description
 C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
