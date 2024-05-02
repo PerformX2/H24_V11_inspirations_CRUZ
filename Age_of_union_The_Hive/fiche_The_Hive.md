@@ -87,22 +87,3 @@ J'ai adoré cette sortie, parce que j'ai sous-estimé. le lien intéressant entr
 ## Derrière la scène
 
 J'ai disscuté avec l'assembleur de nombreuse informations sur la fabrication du dôme. Il m'a montrer qu'il y avait une tableau, dont juste le personnel autorisé pouvait utiliser pour passer des scènes dans la présentation du dôme.
-
-
-[![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
-![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
-
-## Petit cahier d'explication
-L'artiste a fourni un cahier qui explique les sept groupes différents. Je l'ajoute ci-dessous.
-
-![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_2.JPG)
-
-
-### Voici les sources qui m'ont aider à forger mes idées et à trouver des informations précises:
-
-(https://macm.org/en/exhibitions/jeremy-shaw/)
-
-(https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
-()
-
