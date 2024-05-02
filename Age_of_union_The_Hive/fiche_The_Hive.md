@@ -1,4 +1,3 @@
-Ecosysteme comme une ruche d’abeille
 La ruche a nul part où s’assoir c long la transition entre chaque info ya pas de controle
 ils auraient dû mettre une chaise et baisse l’ecran comme si s’etait un bureau avec un ecran tactile les gens s’ennuient de la longueur des infos
 Si le senseur ne detecte personne l’œuvre ne se declanche pas
