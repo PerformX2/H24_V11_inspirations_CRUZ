@@ -81,8 +81,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 J'ai adoré cette sortie, parce que j'ai sous-estimé. le lien intéressant entre la ruche et notre écosystème. J'ai appris 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'assoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre pert de l'audience et de la qualité.
-
+À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'assoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre pert de l'audience et de la qualité. J'aurais aussi laissé le choix de pouvoir passer les diapositives rapidement parce qu'il manquait de dynamique et d'un bon rythme afin d'avoir une experience efficiante de qualité avec tous les visiteurs.
 # Informations additionnelles
 
 ## Avant l'exposition
