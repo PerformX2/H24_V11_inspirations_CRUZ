@@ -56,7 +56,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 ![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
-La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendues au toit avec des fils très forts. Le sol et les blocs pour s'asseoir sont fait d'un doux tapis gris. Tel qu'indiqué dans le cartel de l'entrée, il y a un avertissement pour le public sensible qui pourraient être affectés par l'oeuvre.
+Il est nécessaire d'indiquer l'entrée du dôme 
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
@@ -93,12 +93,6 @@ L'artiste a fourni un cahier qui explique les sept groupes différents. Je l'ajo
 
 ![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
 ![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_2.JPG)
-![Page 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_3.JPG)
-![Page 4](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_4.JPG)
-![Page 5](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_5.JPG)
-![Page 6](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_6.JPG)
-![Page 7](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_7.JPG)
-![Page 8](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_8.JPG)
 
 
 ### Voici les sources qui m'ont aider à forger mes idées et à trouver des informations précises:
@@ -106,8 +100,5 @@ L'artiste a fourni un cahier qui explique les sept groupes différents. Je l'ajo
 (https://macm.org/en/exhibitions/jeremy-shaw/)
 
 (https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
-
-(https://reseauartactuel.org/evenement/jeremy-shaw-phase-shifting-index/)
-
-(https://thetyee.ca/Culture/2023/07/04/Jeremy-Shaw-Phase-Shifting-Index/)
+()
 
