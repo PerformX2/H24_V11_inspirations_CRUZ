@@ -45,7 +45,7 @@ Entre 2023 et 2024 selon l'assembleur du dôme.
 Age of Union est un communauté d'activistes qui cherche à conscentiser les personnes à travers l'art et l'éducation. C'est pour quoi il y a de nombreuses expositions différentes dans le même lieu. Cependant, l'oeuvre qui représente le mieux Age of Union est mon oeuvre. L'oeuvre que j'ai choisi s'appele The Hive. En français, cette dernière se nomme "La ruche". Elle porte ce nom pour une raison qui n'est pas très abstraite, mais elle est très ignorée. L'oeuvre est appelée ainsi pour montrer métaphoriquement les enjeux climatiques de notre planète avec une ruche d'abeille. La méthaphore montre qu'on a besoin de tous les écosystèmes de la planète pour que tout marche correctement, sinon les écosystèmes peuvent s'éffondre tel qu'une ruche d'abeille.
 
 ## Type d'installation 
-Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans la dôme. L'écran en forme de ruche juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
+Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans le dôme en forme du ruche. L'écran en forme hexagonal juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
 
 ## Fonction du dispositif
 [![Aménagement exposition](AJOUT DÈS QUE J'AI L'AUTORISATION DE YOUTUBE)
@@ -81,12 +81,12 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 J'ai adoré cette sortie, parce que j'ai sous-estimé. le lien intéressant entre la ruche et notre écosystème. J'ai appris 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-À mon opinion, Jeremy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
+À mon opinion, l'écran tactile en forme de ruche étui
 
 # Informations additionnelles
 
 ## Avant l'exposition
-En plus de son exposition, il y a des oeuvres assez importantes en lien avec la liberté et la drogue parce que Jeremy Shaw essaye de nous inculquer cette la thématique. Les oeuvres empruntés appartiennent à Bradley Ertaskiran. Elles sont présentés sur les murs avant d'entrer dans l'expérience audiovisuelle de 35 minutes.
+
 
 [![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
 ![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
