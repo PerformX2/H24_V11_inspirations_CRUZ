@@ -56,7 +56,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 ![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
-Il est nécessaire d'indiquer l'entrée du dôme 
+Il faut indiquer à l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. Il est nécessaire d'indiquer le début de l'expérience dans le dôme.
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
