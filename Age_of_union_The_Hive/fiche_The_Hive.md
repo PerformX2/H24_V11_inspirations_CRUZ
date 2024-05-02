@@ -59,7 +59,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 ![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
-À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires.
+À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
@@ -78,7 +78,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
-J'ai adoré cette sortie, parce que j'ai sous-estim. le lien intéressant entre la ruche et notre écosystème.
+J'ai adoré cette sortie, parce que j'ai sous-estimé. le lien intéressant entre la ruche et notre écosystème. J'ai appris 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 À mon opinion, Jeremy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
