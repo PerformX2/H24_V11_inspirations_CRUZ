@@ -53,7 +53,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 ## Composantes et techniques 
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dedans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire qui tient quatres projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de mirroir. Quand la projection est reflétée sur les murs du dôme, les plexiglass contienent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatres hauts-parleurs, quatres ventilateurs et quatre Kinect. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vents et des sons dans le dôme.
 
-![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
+![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
 La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendues au toit avec des fils très forts. Le sol et les blocs pour s'asseoir sont fait d'un doux tapis gris. Tel qu'indiqué dans le cartel de l'entrée, il y a un avertissement pour le public sensible qui pourraient être affectés par l'oeuvre.
