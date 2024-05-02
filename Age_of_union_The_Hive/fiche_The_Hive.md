@@ -1,18 +1,3 @@
-La ruche a nul part où s’assoir c long la transition entre chaque info ya pas de controle
-ils auraient dû mettre une chaise et baisse l’ecran comme si s’etait un bureau avec un ecran tactile les gens s’ennuient de la longueur des infos
-Si le senseur ne detecte personne l’œuvre ne se declanche pas
-Mt concept pour les pieces
-software Rhino sphere soccer ball
-If one mesure is wrong it will not work like the bees
-1/4 pieces to make the hexagons or the patagons none of them sre the same mesure
-3 to 4 months to do the hold project du concept a la fin de la construction
-100$ per filtre blanc
-flatterie pour definir le plus moins de pieces possibles
-moins de piece = moins cher
-entre 60 et 70 pieces
-nom du materiel:
-sur la tablette on peut controler le son et d’autres réglages de la sphere
-
 # Age of Union - The Hive
 
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
@@ -79,10 +64,27 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
 J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre la ruche et notre écosystème. J'ai appris à rechercher mieux mes sources grâce à mon échange exclusive avec le constructeur du dôme.
+
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'assoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre pert de l'audience et de la qualité. J'aurais aussi laissé le choix de pouvoir passer les diapositives rapidement parce qu'il manquait de dynamique et d'un bon rythme afin d'avoir une experience efficiante de qualité avec tous les visiteurs. 
+
 # Informations additionnelles
 
 ## Derrière la scène
 
 J'ai disscuté avec l'assembleur de nombreuse informations sur la fabrication du dôme. Il m'a montrer qu'il y avait une tableau, dont juste le personnel autorisé pouvait utiliser pour passer des scènes dans la présentation du dôme.
+
+La ruche a nul part où s’assoir c long la transition entre chaque info ya pas de controle
+ils auraient dû mettre une chaise et baisse l’ecran comme si s’etait un bureau avec un ecran tactile les gens s’ennuient de la longueur des infos
+Si le senseur ne detecte personne l’œuvre ne se declanche pas
+Mt concept pour les pieces
+software Rhino sphere soccer ball
+If one mesure is wrong it will not work like the bees
+1/4 pieces to make the hexagons or the patagons none of them sre the same mesure
+3 to 4 months to do the hold project du concept a la fin de la construction
+100$ per filtre blanc
+flatterie pour definir le plus moins de pieces possibles
+moins de piece = moins cher
+entre 60 et 70 pieces
+nom du materiel:
+sur la tablette on peut controler le son et d’autres réglages de la sphere
