@@ -19,7 +19,7 @@ sur la tablette on peut controler le son et d’autres réglages de la sphere
 
 
 ## Nom de l'exposition
-Age of Union : The Hive
+Age of Union - The Hive
 
 ## Lieu de mise en exposition
 7049 Rue Saint-Urbain, Montreal QC H2S 3H4
