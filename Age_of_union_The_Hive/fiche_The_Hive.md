@@ -43,7 +43,7 @@ Age of Union
 Entre 2023 et 2024 selon l'assembleur du dôme.
 
 ## Description
-Age of Union est un communauté d'activistes qui cherche à conscentiser les personnes à travers l'art et l'éducation. C'est pour quoi il y a de nombreuses expositions différentes dans le même lieu. Cependant, l'oeuvre qui représente le mieux Age of Union est mon oeuvre. L'oeuvre que j'ai choisi s'appele The Hive. En français, cette dernière se nomme "La ruche". Elle porte ce nom pour une raison qui n'est pas très abstraite, mais elle est très ignorée. L'oeuvre est appelée ainsi pour montrer métaphoriquement les enjeux climatiques de notre planète avec une ruche d'abeille. 
+Age of Union est un communauté d'activistes qui cherche à conscentiser les personnes à travers l'art et l'éducation. C'est pour quoi il y a de nombreuses expositions différentes dans le même lieu. Cependant, l'oeuvre qui représente le mieux Age of Union est mon oeuvre. L'oeuvre que j'ai choisi s'appele The Hive. En français, cette dernière se nomme "La ruche". Elle porte ce nom pour une raison qui n'est pas très abstraite, mais elle est très ignorée. L'oeuvre est appelée ainsi pour montrer métaphoriquement les enjeux climatiques de notre planète avec une ruche d'abeille. La méthaphore montre qu'on a besoin de tous les écosystèmes de la planète pour que tout marche correctement, sinon les écosystèmes peuvent s'éffondre tel qu'une ruche d'abeille.
 
 ## Type d'installation 
 Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans la dôme. L'écran en forme de ruche juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
