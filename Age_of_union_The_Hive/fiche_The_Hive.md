@@ -59,7 +59,7 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 ![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
-À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interaction avec des mouvements.
+À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires.
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
