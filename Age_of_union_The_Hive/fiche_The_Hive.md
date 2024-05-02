@@ -37,7 +37,7 @@ The Hive
 ## Nom de l'exposition
 Age of Union
 
-![photo](Medias/Vue_ensemble_the_Hive.JPG)
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
 ## Année de réalisation
 Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
