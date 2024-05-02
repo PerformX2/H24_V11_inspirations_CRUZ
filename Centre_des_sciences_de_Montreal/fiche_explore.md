@@ -52,51 +52,53 @@ Si possible, est-ce que vous pouvez prendre une photo de l’intérieur d’un d
 
 Bonjour Nicolas, voici les photos. C'est la caméra de chacun des modules qui filme avec son propre filtre intégré; il n'y a donc pas d'autres étapes de traitement. Les lumières au-dessus de celle du UV, sont là seulement pour créer plus de luminosité sur le participant afin que la caméra puisse bien le voir sur toute sa hauteur.
 
-# Travail 01 - Exposition de Jeremy Shaw
+# Age of Union - The Hive
 
-![image Jérémy_Shaw_exposition_collage](Medias/Jérémy_Shaw_expositon_collage.jpg)
+![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
 
 ## Nom de l'exposition
-JEREMY SHAW : PHASE SHIFTING INDEX
+Age of Union: The Hive
 
 ## Lieu de mise en exposition
-Fonderie Darling - 745 Ottawa Rue, Montréal QC H3C1R8
+7049 Rue Saint-Urbain, Montreal QC H2S 3H4
 
 ## Type d'exposition
-Cette exposition est temporaire. Elle est ouverte du 12 décembre 2023 jusqu'au 25 février 2024.
+Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien dirigant à la collection permanante: (https://ageofunion.com/permanent-collection/)
 
-## Date de votre visite
-On a visité l'exposition le 31 janvier 2024.
+## Date de ma visite
+J'ai visité l'exposition le 2 mars 2024.
 
 ## Titre de l'oeuvre
-Phase Shifting Index
+The Hive
 
-## Nom de l'artiste
-Jeremy Shaw 
+## Nom de l'exposition
+Age of Union
 
-![image Affiche_exposition2](Medias/Affiche_exposition.JPG)
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
 ## Année de réalisation
-Après avoir atteint un sommet dans sa carrière, Jérémy Shaw a réalisé, en 2020, son exposition pour la première fois au Centre Pompidou à Paris.
+Entre 2023 et 2024 selon l'assembleur du dôme.
 
 ## Description
-C'est une expérience anthropologique de sept groupes de danseurs différents. Les sept groupes sont divisés par sept écrans à travers la salle de l'exposition. Les sept groupes parlent à la caméra et ils dansent des types de danses distinctes. À mesure que le temps passe, les danseurs vont commencer à danser plus vigoureusement et agressivement jusqu'à tant que les sept groupes se synchronisent. Par la suite, tous les groupes vont s'unir et ils feront la même danse en même temps. Ils vont danser jusqu'à tant qu'ils ne soient plus reconnaissables. Il restera que du bruit à la fin de l'oeuvre. L'oeuvre se termine au moment où les écrans deviennent gris et sans signal.
+Age of Union est un communauté d'activistes qui cherche à conscentiser les personnes à travers l'art et l'éducation. C'est pour quoi il y a de nombreuses expositions différentes dans le même lieu. Cependant, l'oeuvre qui représente le mieux Age of Union est mon oeuvre. L'oeuvre que j'ai choisi s'appele The Hive. En français, cette dernière se nomme "La ruche". Elle porte ce nom pour une raison qui n'est pas très abstraite, mais elle est très ignorée. L'oeuvre est appelée ainsi pour montrer métaphoriquement les enjeux climatiques de notre planète avec une ruche d'abeille. La méthaphore montre qu'on a besoin de tous les écosystèmes de la planète pour que tout marche correctement, sinon les écosystèmes peuvent s'éffondre tel qu'une ruche d'abeille.
 
 ## Type d'installation 
-Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
+Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans le dôme en forme du ruche. L'écran en forme hexagonal juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
+
+## Fonction du dispositif
+[![Aménagement exposition](AJOUT DÈS QUE J'AI L'AUTORISATION DE YOUTUBE)
 
 ## Mise en espace 
-
-[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
+[![Aménagement exposition](AJOUT DÈS QUE J'AI L'AUTORISATION DE YOUTUBE)
 
 ## Composantes et techniques 
-Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'asseoir, le cablage pour tous les dispositifs électroniques présents, le tapis. 
+The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dedans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire qui tient quatres projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de mirroir. Quand la projection est reflétée sur les murs du dôme, les plexiglass contienent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatres hauts-parleurs, quatres ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne poour déclancher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vents et des sons dans le dôme. Sans oublier, le long cablage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
-![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
+![Cartel 1](aménagement)
 
 ## Éléments nécessaires à la mise en exposition 
-La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-parleurs et plusieurs lumières colorées qui sont suspendu au toit avec des fils très forts. Le sol et les blocs pour s'asseoir sont fait d'un doux tapis gris. Tel qu'indiqué dans le cartel de l'entrée, il y a un avertissement pour le public sensible qui pourraient être affectés par l'oeuvre.
+À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
 
 ![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
@@ -115,38 +117,11 @@ La salle de l'exposition est composée de sept grands écrans, plusieurs hauts-p
 [![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
-Cette oeuvre me donne le goût de m'incliner vers les oeuvres simples et minimalistes. J'aime les oeuvres qui prenent en compte les plus petits détails comme Jeremy Shaw. Parce que les petits changements font les plus grandes différences.
+J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre la ruche et notre écosystème. J'ai appris à rechercher mieux mes sources grâce à mon échange exclusive avec le constructeur du dôme.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-À mon opinion, Jeremy Shaw aurait dû mettre en place plus de lumière avec des couleurs plus variées étant donné que son oeuvre traite de la psychédélique et la drogue. Alors, je crois que son oeuvre devrait être un peu plus cohérente.
+À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'assoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre pert de l'audience et de la qualité. J'aurais aussi laissé le choix de pouvoir passer les diapositives rapidement parce qu'il manquait de dynamique et d'un bon rythme afin d'avoir une experience efficiante de qualité avec tous les visiteurs. 
 
 # Informations additionnelles
 
-## Avant l'exposition
-En plus de son exposition, il y a des oeuvres assez importantes en lien avec la liberté et la drogue parce que Jeremy Shaw essaye de nous inculquer cette la thématique. Les oeuvres empruntés appartiennent à Bradley Ertaskiran. Elles sont présentés sur les murs avant d'entrer dans l'expérience audiovisuelle de 35 minutes.
-
-[![Avant exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d3d6a42c249118a3625c3c26d8725d98f8c0cc05/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_avant_exposition.png)](https://youtube.com/shorts/wzXOH1Ahem8) 
-![Cartel 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4d8bd018d6d8f1e3e82d1ad3bd0e1388626bf182/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_3.JPG)
-
-## Petit cahier d'explication
-L'artiste a fourni un cahier qui explique les sept groupes différents. Je l'ajoute ci-dessous.
-
-![Page 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3c3e0e9c61b793929efebdea4a6d87996a01e51b/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_1.JPG)
-![Page 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_2.JPG)
-![Page 3](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_3.JPG)
-![Page 4](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_4.JPG)
-![Page 5](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_5.JPG)
-![Page 6](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_6.JPG)
-![Page 7](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_7.JPG)
-![Page 8](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/0f0af2071d951884fd9341a15825f2cc60d2af34/semaine_01/JEREMY_SHAW_phase_shifting_index/Cahier_info_8.JPG)
-
-
-### Voici les sources qui m'ont aider à forger mes idées et à trouver des informations précises:
-
-(https://macm.org/en/exhibitions/jeremy-shaw/)
-
-(https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
-
-(https://reseauartactuel.org/evenement/jeremy-shaw-phase-shifting-index/)
-
-(https://thetyee.ca/Culture/2023/07/04/Jeremy-Shaw-Phase-Shifting-Index/)
+## Derrière la scène
