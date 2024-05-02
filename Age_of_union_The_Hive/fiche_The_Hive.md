@@ -50,7 +50,7 @@ Cette oeuvre est contemplative, car on est exposé simplement par les sept vidé
 
 ## Mise en espace 
 
-[![Aménagement exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/a456305ac3449776ace52ac4ed25152a1a77e94d/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_am%C3%A9nagement_exposition.png)](https://youtu.be/RpNF4Zk65Yw)
+[![Aménagement exposition](AJOUT DÈS QUE J'AI L'AUTORISATION DE YOUTUBE)
 
 ## Composantes et techniques 
 Sept écrans, plusieurs hauts-parleurs environ 21, du basse dans le bloc pour s'asseoir, le cablage pour tous les dispositifs électroniques présents, le tapis. 
