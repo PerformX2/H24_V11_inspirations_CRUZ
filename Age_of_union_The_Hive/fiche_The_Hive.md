@@ -51,7 +51,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 [![Aménagement exposition](AJOUT DÈS QUE J'AI L'AUTORISATION DE YOUTUBE)
 
 ## Composantes et techniques 
-The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a l'écran tactile sur le mur avec les deux projecteurs accrochés sur le pont d'éclairage.
+The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile sur le mur avec deux projecteurs accrochés sur le pont d'éclairage.
 
 ![Cartel 1](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/d8d08ac76336da4f6ee9f921da0600c84343c1d5/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_1.JPG)
 
