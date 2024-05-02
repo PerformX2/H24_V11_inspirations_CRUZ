@@ -46,7 +46,7 @@ Entre 2023 et 2024 selon l'assembleur du dôme.
 
 
 ## Type d'installation 
-Cette oeuvre est interactive. Le dôme est une partie interactive parce qu'il y a des interactions possibles grâce aux Kinect Xbox cachée au tour. 
+Cette oeuvre est interactive. Le dôme est une partie interactive parce qu'il y a des interactions possibles grâce aux Kinect Xbox cachée au tour. L'écran en forme de ruche juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur choisi une catégorie sur l'écran.
 
 ## Mise en espace 
 
