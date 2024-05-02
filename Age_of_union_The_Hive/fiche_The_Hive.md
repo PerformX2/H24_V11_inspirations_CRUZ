@@ -28,8 +28,8 @@ Age of Union : The Hive
 ## Type d'exposition
 Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien dirigant à la collection permanante: (https://ageofunion.com/permanent-collection/)
 
-## Date de votre visite
-On a visité l'exposition le 2 mars 2024.
+## Date de ma visite
+J'ai visité l'exposition le 2 mars 2024.
 
 ## Titre de l'oeuvre
 The Hive
