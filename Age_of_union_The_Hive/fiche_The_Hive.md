@@ -46,7 +46,7 @@ Entre 2023 et 2024 selon l'assembleur du dôme.
 
 
 ## Type d'installation 
-Cette oeuvre est contemplative, car on est exposé simplement par les sept vidéos qui jouent à travers la salle avec le son des vidéos.
+Cette oeuvre est immersives et interactives. Le dôme est une partie immersive par la musique sans voix, les projections de la terre et l'espace et les interactions possibles grâce aux Kinect Xbox cachée au tour.
 
 ## Mise en espace 
 
