@@ -34,7 +34,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 
 ## Fonction du dispositif
 
-[![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3588ed2e96a18e5be6105c688ee21d6ba48a2042/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
+[![Dôme fonction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3588ed2e96a18e5be6105c688ee21d6ba48a2042/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
 [![Dôme fonction][[Age_of_union_The_Hive/Medias/Dôme_fin_exposition.png](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png)(https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png))](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png))](https://www.youtube.com/watch?v=CTwPFhwRWt0&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=7)
 
