@@ -33,7 +33,7 @@ Age of Union est une communauté d'activistes qui cherchent à conscentiser les 
 Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans le dôme en forme du ruche. L'écran en forme hexagonal juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
 
 ## Fonction du dispositif
-[![Dôme fonction](Age_of_union_The_Hive/Medias/Dôme_fin_exposition.png](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png))](https://www.youtube.com/watch?v=CTwPFhwRWt0&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=7)
+[![Dôme fonction](Age_of_union_The_Hive/Medias/Dôme_fin_exposition.png)](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/main/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png))](https://www.youtube.com/watch?v=CTwPFhwRWt0&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=7)
 
 [![Écran ruche fonction](https://www.youtube.com/watch?v=Y1HItlu8SoQ&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=6)
 
