@@ -58,7 +58,7 @@ Les interactions de l'écran ruche sont assurés des utilisateurs qui pourront s
 
 ## Expérience vécue
 
-[![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
+[![Dôme_interaction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/bcb46ead969b9309dedb7ec2a96e48e0e1ec95ee/Age_of_union_The_Hive/Medias/D%C3%B4me_interaction_d%C3%A9placement.png)](https://www.youtube.com/watch?v=YppDRPnUq8k&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=8)
 
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
