@@ -1,7 +1,5 @@
 # Age of Union - The Hive
-
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
-
 
 ## Nom de l'exposition
 Age of Union: The Hive
