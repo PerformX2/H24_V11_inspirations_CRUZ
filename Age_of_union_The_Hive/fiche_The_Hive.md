@@ -21,7 +21,7 @@ The Hive
 ## Nom de l'exposition
 Age of Union
 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+![cartel_the_Hive](Age_of_union_The_Hive/Medias/Cartel_The_Hive.JPG)
 
 ## Année de réalisation
 Entre 2023 et 2024 selon l'assembleur du dôme.
