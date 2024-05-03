@@ -62,6 +62,7 @@ Les interactions de l'écran ruche sont assurés des utilisateurs qui pourront s
 
 [![Ecran ruche interactions assurés](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/1080ea4fd38ebc1ee1aede1a2168c6ec5a010c81/Age_of_union_The_Hive/Medias/Ecran_ruche_tactile_assur%C3%A9_public.png)](https://www.youtube.com/watch?v=WuuUXSDqRec&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=3)
 ![image message_projecteur_The_Hive](Medias/Dôme_message_entrée.JPG)
+![image Sorties_urgences](Medias/Age_of_Union_Hive_sorties_urgences.jpg)
 
 
 ## Expérience vécue
