@@ -50,9 +50,9 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 
 
 ## Éléments nécessaires à la mise en exposition 
-À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence des coussins permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
+Les interactions de l'écran ruche assurés. À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence des coussins permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
 
-![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
+[![Ecran ruche interactions assurés](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=WuuUXSDqRec&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=3)
 
 ## Expérience vécue
 
