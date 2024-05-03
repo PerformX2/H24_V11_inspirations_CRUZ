@@ -55,7 +55,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 ## Composantes et techniques 
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dedans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire en bois qui tient quatres projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de mirroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contienent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatres hauts-parleurs, quatres ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne poour déclancher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vents et des sons dans le dôme. Sans oublier, le long cablage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
-[![image Dôme_sortie_cablage](/Medias/Dôme_fabrication.jpg)
+[![image Dôme_fabrication](/Medias/Dôme_fabrication.jpg)
 
 [![Dôme_sortie_cablage](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3fb5bb1407be7552ccd7fee3342d6a14c073fc63/Age_of_union_The_Hive/Medias/D%C3%B4me_sortie_cablage.png)](https://www.youtube.com/watch?v=mdtCZ-5rjQ4&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=9)
 
@@ -64,7 +64,9 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 Les interactions de l'écran ruche sont assurés des utilisateurs qui pourront sortir de l'interface volontairement ou pas. À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence des coussins permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. Comme toute exposition, il y a des sorties en cas d'urgence.
 
 [![Ecran ruche interactions assurés](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/1080ea4fd38ebc1ee1aede1a2168c6ec5a010c81/Age_of_union_The_Hive/Medias/Ecran_ruche_tactile_assur%C3%A9_public.png)](https://www.youtube.com/watch?v=WuuUXSDqRec&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=3)
+
 ![image message_projecteur_The_Hive](Medias/Dôme_message_entrée.JPG)
+
 ![image Sorties_urgences](Medias/Age_of_Union_Hive_sorties_urgences.jpg)
 
 
