@@ -37,6 +37,8 @@ Age of Union est une communauté d'activistes qui cherchent à conscentiser les 
 
 ![image Lien ruche](Medias/Ecran_ruche_lien_abeilles.jpg)
 
+![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
+
 
 ## Type d'installation 
 Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans le dôme en forme du ruche. L'écran en forme hexagonal juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
@@ -88,6 +90,8 @@ J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre
 # Informations additionnelles
 
 ![image Dôme_espace](Medias/Dôme_espace.jpg)
+
+![image Qr](Medias/The_Hive_conscientiser_action.jpg)
 
 ## Derrière la scène
 
