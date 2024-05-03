@@ -96,7 +96,7 @@ J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre
 ## Derrière la scène
 
 J'ai disscuté avec l'assembleur de nombreuse informations sur la fabrication de la sphère.
--Mt concept pour les pieces
+-Le logiciel "Mt concept" était utilisé pour conceptualiser les pieces. Afin de créer la sphère, il a pris une balle de soccer et il l'a coupé parfaitement à la taille parfaite pour la mise à grande échelle.
 
 -Software Rhino sphere soccer ball
 
