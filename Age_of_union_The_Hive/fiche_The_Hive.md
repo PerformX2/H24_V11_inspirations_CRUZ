@@ -47,7 +47,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dedans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire qui tient quatres projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de mirroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contienent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatres hauts-parleurs, quatres ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne poour déclancher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vents et des sons dans le dôme. Sans oublier, le long cablage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
 ![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
-![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
+
 
 ## Éléments nécessaires à la mise en exposition 
 À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence des coussins permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
@@ -58,13 +58,6 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 
 [![Exemple_dances](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f5ef270432386ce5054f49096847431d040f3782/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_2_groupes_dansent.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
 
-[![Danse robotique](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/20566fd79d022389ed2066e10a6bbe3b9c256024/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_dance_robotique.png)](https://youtu.be/tdRKN6O79wQ)
-
-[![Danse agitée folle](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7f5448a354620322e5d0295d02ab65cf966570d8/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse%20agit%C3%A9e_folle.png)](https://youtube.com/shorts/7ZNaNeZFBn0?feature=share)
-
-[![Danse groupe](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/52f2b970e7fbf307f98800fd9896f2b4854537a1/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_danse_groupe.png)](https://youtu.be/A8ky_-8Pum8)
-
-[![Phase ADN](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/92ad8286d3734353faac3a58095767e0fce06749/semaine_01/JEREMY_SHAW_phase_shifting_index/Capture_phase_ADN.png)](https://youtu.be/2-OoxMN9bgM)
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
 J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre la ruche et notre écosystème. J'ai appris à rechercher mieux mes sources grâce à mon échange exclusive avec le constructeur du dôme.
