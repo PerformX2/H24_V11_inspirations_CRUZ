@@ -96,26 +96,4 @@ J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre
 ## Derrière la scène
 
 J'ai disscuté avec l'assembleur de nombreuse informations sur la fabrication de la sphère.
--Le logiciel "Mt concept" était utilisé pour conceptualiser les pieces. Afin de créer la sphère, il a pris une balle de soccer dans le logiciel "Rhino" et il l'a coupé parfaitement à la taille parfaite pour la mise à grande échelle. Si une mesure du dôme est incorrecte, il ne sera pas possible d'assembler le dôme sans qu'il s'éffondre. Ça marche exactement comme une ruche d'abeille.
-
-
-If one mesure is wrong it will not work like the bees
-
-1/4 pieces to make the hexagons or the patagons none of them sre the same mesure
-
-3 to 4 months to do the hold project du concept a la fin de la construction
-
-100$ per filtre blanc
-
-flatterie pour definir le plus moins de pieces possibles
-
-moins de piece = moins cher
-
-entre 60 et 70 pieces
-À part ça. il m'a montrer qu'il y avait une tablette qui peut être utilisée seulement par le personnel autorisé pour passer des scènes dans la présentation du dôme.
-
-
-
-nom du materiel:
-
-sur la tablette on peut controler le son et d’autres réglages de la sphere
+-Le logiciel "Mt concept" était utilisé pour conceptualiser les pieces. Afin de créer la sphère, il a pris une balle de soccer dans le logiciel "Rhino" et il l'a coupé parfaitement à la taille parfaite pour la mise à grande échelle. Si une mesure du dôme est incorrecte, il ne sera pas possible d'assembler le dôme sans qu'il s'éffondre. Ça marche exactement comme une ruche d'abeille. Cette sphère est composée de pentagones et de hexagones. Aucune piece dans tout le dôme est identique. Ce fait montre l'importance de chaque éléments en tant que point d'équilibre pour toute la ruche. Encore une fois, le plexiglas a un filtre blanc pour permettre les projections. Le filtre blanc coûte 100$ par pièce couverte. À partir de la concept et la fin de la construction du dôme, il s'est écoulé 3 à 4 mois selon le constructeur. Ils utilisent la flatterie pour definir le moins de pièces possibles pour garder le budget le plus bas que possible. Au total, la ruche est composée de 60 à 70 pièces.
