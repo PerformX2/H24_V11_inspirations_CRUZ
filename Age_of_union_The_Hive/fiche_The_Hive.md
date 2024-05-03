@@ -24,7 +24,7 @@ Age of Union
 ![Cartel_the_Hive](Age_of_union_The_Hive/Medias/Cartel_The_Hive.JPG)
 
 ## Année de réalisation
-Entre 2023 et 2024 selon l'assembleur du dôme.
+En 2022 selon le seul cartel qu'il y avait.
 
 ## Description
 Age of Union est une communauté d'activistes qui cherchent à conscentiser les personnes à travers l'art et l'éducation. C'est pourquoi il y a de nombreuses expositions différentes dans le même lieu. Cependant, l'oeuvre qui représente le mieux Age of Union est "The Hive". En français, cette dernière se nomme "La ruche". Elle porte ce nom pour une raison qui n'est pas très abstraite. Le message que porte le nom est très ignoré. L'oeuvre est appelée ainsi pour montrer métaphoriquement les enjeux climatiques de notre planète avec une ruche d'abeille. La méthaphore montre qu'on a besoin de tous les écosystèmes de la planète pour que tout marche correctement, sinon les écosystèmes peuvent s'effondre tel qu'une ruche d'abeille.
@@ -44,7 +44,7 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 ## Composantes et techniques 
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dedans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire qui tient quatres projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de mirroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contienent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatres hauts-parleurs, quatres ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne poour déclancher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vents et des sons dans le dôme. Sans oublier, le long cablage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
-![Cartel The Hive](Age_of_union_The_Hive/Medias/Cartel_The_Hive.JPG)
+![image Cartel_The_Hive](Age_of_union_The_Hive/Medias/Cartel_The_Hive.JPG)
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
 ## Éléments nécessaires à la mise en exposition 
