@@ -1,1 +1,1 @@
-Voici le dossier de l'exposition "Canevas Cosmique". Ce dossier contient la fiche de l'oeuvre et un dossier pour les médias.
+Voici le dossier de "Canevas Cosmique". Ce dossier contient la fiche de l'oeuvre et un dossier pour les médias.
