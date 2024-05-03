@@ -13,7 +13,6 @@ Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien 
 ## Date de ma visite
 J'ai visité l'exposition le 2 mars 2024.
 
-
 ## Titre de l'oeuvre
 The Hive
 
@@ -34,12 +33,10 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 ## Fonction du dispositif
 
 [![Dôme fonction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3588ed2e96a18e5be6105c688ee21d6ba48a2042/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
-
 [![Écran ruche fonction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/e414ba6741342ab153274595b04aa99a7e8970a1/Age_of_union_The_Hive/Medias/%C3%89cran_ruche_projection_adapt%C3%A9es.png)](https://www.youtube.com/watch?v=Y1HItlu8SoQ&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=6)
 
 ## Mise en espace 
 [![Dôme aménagement](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f05c0234e98821105c60d7af6509a45c97ceaa09/Age_of_union_The_Hive/Medias/D%C3%B4me_am%C3%A9nagement.png)](https://www.youtube.com/watch?v=X4OwlfUaAFE&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=4)
-
 [![Écran_ruche_aménagement_toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/8385ebea02172a2a7fab1c9518b2ccee6b702114/Age_of_union_The_Hive/Medias/Ecran_ruche_installation_haut.png)](https://www.youtube.com/watch?v=FcpgCOnOVdc&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=1)
 
 ## Composantes et techniques 
