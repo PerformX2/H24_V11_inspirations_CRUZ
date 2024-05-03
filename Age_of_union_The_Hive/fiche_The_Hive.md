@@ -48,7 +48,10 @@ Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des intera
 
 
 ## Mise en espace 
+![The Hive vue d'ensemble](Medias/Vue_ensemble_the_Hive.JPG)
+
 [![Dôme aménagement](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/f05c0234e98821105c60d7af6509a45c97ceaa09/Age_of_union_The_Hive/Medias/D%C3%B4me_am%C3%A9nagement.png)](https://www.youtube.com/watch?v=X4OwlfUaAFE&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=4)
+
 [![Écran_ruche_aménagement_toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/8385ebea02172a2a7fab1c9518b2ccee6b702114/Age_of_union_The_Hive/Medias/Ecran_ruche_installation_haut.png)](https://www.youtube.com/watch?v=FcpgCOnOVdc&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=1)
 
 
