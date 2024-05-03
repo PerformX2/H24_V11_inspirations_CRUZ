@@ -33,7 +33,7 @@ Age of Union est une communauté d'activistes qui cherchent à conscentiser les 
 Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Dès le moment, les interactions sont captés par des "Kinect" Xbox cachés dans le dôme en forme du ruche. L'écran en forme hexagonal juste à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promene dans l'écran tactile.
 
 ## Fonction du dispositif
-[![Dôme fonction](https://www.youtube.com/watch?v=CTwPFhwRWt0&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=7)
+[![Dôme fonction](Age_of_union_The_Hive/Medias/Dôme_fin_exposition)(https://www.youtube.com/watch?v=CTwPFhwRWt0&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=7)
 [![Écran ruche fonction](https://www.youtube.com/watch?v=Y1HItlu8SoQ&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=6)
 
 ## Mise en espace 
@@ -46,8 +46,6 @@ The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de
 
 ## Éléments nécessaires à la mise en exposition 
 À l'écran en forme de ruche, il suffit de lire et choisir la catérgorie pour s'éduquer. À l'entrée du dôme un bref message qui explique quoi faire aux visiteurs. La présence du banc circulaire en toile permet aux personnes de s'assoir pour assiter la présentation. Il est nécessaire d'indiquer le début de l'expérience dans le dôme. Pendant la présentation, il est indiqué partout dans le dôme la possibilité d'interactions avec des mouvements. Ils ont bien poli le dôme parce que la présences de tous ces composantes ne sont pas imposantes. Le matériel est bien caché ou très peu visible dans l'obscurité. De plus, le sol est de la même couleur que celle des planches noires. 
-
-![Aménagement toit](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/c6f5b195904c10c8f5401f1ee74df9d4aaee66df/semaine_01/JEREMY_SHAW_phase_shifting_index/Am%C3%A9nagement_toit.jpg)
 
 ![Cartel 2](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/498fcbc195482c8a0717422b1e8f728e689a7a5c/semaine_01/JEREMY_SHAW_phase_shifting_index/cartel_2.JPG)
 
