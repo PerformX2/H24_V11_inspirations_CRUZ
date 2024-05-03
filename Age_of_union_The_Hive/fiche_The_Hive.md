@@ -96,7 +96,7 @@ J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre
 ## Derrière la scène
 
 J'ai disscuté avec l'assembleur de nombreuse informations sur la fabrication de la sphère.
--Le logiciel "Mt concept" était utilisé pour conceptualiser les pieces. Afin de créer la sphère, il a pris une balle de soccer dans le logiciel "Rhino" et il l'a coupé parfaitement à la taille parfaite pour la mise à grande échelle.
+-Le logiciel "Mt concept" était utilisé pour conceptualiser les pieces. Afin de créer la sphère, il a pris une balle de soccer dans le logiciel "Rhino" et il l'a coupé parfaitement à la taille parfaite pour la mise à grande échelle. Si une mesure du dôme est incorrecte, il ne sera pas possible d'assembler le dôme sans qu'il s'éffondre. Ça marche exactement comme une ruche d'abeille.
 
 
 If one mesure is wrong it will not work like the bees
