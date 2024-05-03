@@ -15,13 +15,13 @@ Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien 
 ## Date de ma visite
 J'ai visité l'exposition le 2 mars 2024.
 
+![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
+
 ## Titre de l'oeuvre
 The Hive
 
 ## Nom de l'exposition
 Age of Union
-
-![Cartel_the_Hive](Age_of_union_The_Hive/Medias/Cartel_The_Hive.JPG)
 
 ## Année de réalisation
 En 2022 selon le seul cartel qu'il y avait.
