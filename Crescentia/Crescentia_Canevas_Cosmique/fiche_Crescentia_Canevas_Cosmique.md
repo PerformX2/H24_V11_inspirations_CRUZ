@@ -3,9 +3,10 @@
 ## Créateurs(trices) :
 Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
 
-Lien du projet lié avec le thème Crescentia:
+Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
-L'installation en cours dans les studios pour chacun des projets:
+Lien du projet (Crescentia Github)
+https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 Kigo par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 Le lien de ce projet avec le thème Crescentia est que l'interface du projet est toujours changeante. Dépendamment de ce qu'on fait, le projet réagira aux paramètres que l'utilisateur met.
