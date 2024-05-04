@@ -15,6 +15,7 @@ Le rapport avec l'exposition de Crescentia est de se dépasser comme personne. C
 
 
 ## Installation 
+L'installation en cours dans le studio consiste en la mise en place d'un projecteur, d'une Kinect et de haut-parleurs. Cette configuration permettra de créer un environnement interactif pour l'expérience de jeu, l'équipe a dû planifier l'emplacement optimal pour chaque composant afin d'assurer une expérience immersive pour les joueurs.(Première visite) Ensuite, chaque élément a été installé et testé individuellement pour s'assurer de son bon fonctionnement. Une fois que tous les composants étaient opérationnels, l'équipe a procédé à des tests complets pour vérifier l'interaction entre la Kinect, le projecteur et les haut-parleurs. Des ajustements ont probablement été nécessaires pour optimiser la qualité visuelle, la détection des mouvements et l'audio.(Deuxième visite)
 
 ![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
