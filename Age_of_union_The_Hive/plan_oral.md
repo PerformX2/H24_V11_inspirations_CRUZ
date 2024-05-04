@@ -8,10 +8,14 @@ Dév:
 Le nom de l'exposition est "Age of Union" 
 Le nom de l'oeuvre est "The Hive". 
 Le lieu de mise en exposition: 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. 
-Pour toutes informations du lieu, il suffit de consulter le calendrier du site web de "Age of Union" pour connaitre les coûts et les expositions. Il n'y a pas d'artiste reconnu par cette oeuvre. "The Hive est installé depuis 2022. Cette exposition est permanante. La date de fin n'est pas connue. J'ai visité l'oeuvre le 2 mars 2024. Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Au moment d'un mouvement, les interactions sont captées par des "Kinect" Xbox cachés dans le dôme en forme de ruche. L'écran en forme hexagonale à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promène dans l'écran tactile. 
+Coûts
+Il n'y a pas d'artiste reconnu par cette oeuvre. 
+"The Hive est installé depuis 2022. 
+Cette exposition est permanante. La date de fin n'est pas connue. 
+J'ai visité l'oeuvre le 2 mars 2024. 
+Cette oeuvre est interactive. Le dôme est interactif + l'écran en forme hexagonale à l'extérieur du dôme
 
-
-Fonction?
+Fonction? (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire en bois qui tient quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de miroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contiennent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne pour déclencher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vent et des sons dans le dôme. Sans oublier, le long câblage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
