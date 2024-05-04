@@ -36,7 +36,7 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 
 ## Préférence
-Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favorite.
+Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est ma troisième oeuvre favorite.
 
 
 ### Sources
