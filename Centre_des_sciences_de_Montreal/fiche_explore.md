@@ -1,9 +1,5 @@
 # Centre des sciences de Montreal - Explore - 3 Écrans avec différentes lumières captées
-![image Age of Union collage](Medias/Cen)
-
-
-## Nom de l'exposition
-Age of Union: The Hive
+![Centre_des_sciences_Montreal_oeuvre_survol.jpg](Medias/Centre_des_sciences_Montreal_oeuvre_survol.jpg)
 
 
 ## Lieu de mise en exposition
@@ -11,7 +7,7 @@ Age of Union: The Hive
 
 
 ## Type d'exposition
-Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien dirigant à la collection permanante: (https://ageofunion.com/permanent-collection/)
+Cette exposition est permanante ça fait presque 10 ans. C'est bientôt la fin.
 
 
 ## Date de ma visite
@@ -26,7 +22,7 @@ Explore
 
 
 ## Année de réalisation
-En 2022, selon le seul cartel qu'il y avait.
+En 2015 environ
 
 ![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
 
