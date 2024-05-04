@@ -12,6 +12,31 @@ Fonction?
 
 The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire en bois qui tient quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de miroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contiennent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne pour déclencher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vent et des sons dans le dôme. Sans oublier, le long câblage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
 
+Évaluation critique :
+
+Exprimer mon expérience :
+Description de votre expérience du dispositif
+
+Description de l'interactivité/contemplation/immersion/fonction
+
+des gestes à poser
+
+etc...
+
+Ce que j'ai aimé :
+Ce qui m'a plu et justifiez
+
+M'a donné des idées et justifiez
+
+Ce que j'ai moins aimé :
+Aspects que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
+
+ Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+Conclusion :
+
+ Rappel des aspects présentés
+ Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
 # Contextualisation de l'oeuvre
