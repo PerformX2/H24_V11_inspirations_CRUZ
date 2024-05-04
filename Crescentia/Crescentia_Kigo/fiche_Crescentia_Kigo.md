@@ -3,6 +3,8 @@ Le jeu consiste à esquiver les obstavles rectangulaires. Il faut toucher les X 
 Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illuminer bcp plus le monde virtuel et il y a des limuieres acrochée aux supports metalliques du toits. La “safezone” est illuminées
 
 # Kigo
+![Kigo test exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7be6e74b1a22c6220e633630770cfc0599aa7036/Crescentia/Crescentia_Kigo/Medias/Kigo_text_exposition.png)](https://www.youtube.com/watch?v=RgCyO_c2snI&list=PLcwpEbanae5KBK_T0bqZTOZ71D9sb8JU-)
+
 
 ## Créateurs(trices) :
 Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
