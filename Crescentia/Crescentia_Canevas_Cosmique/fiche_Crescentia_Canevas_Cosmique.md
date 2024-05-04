@@ -27,7 +27,6 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
 ## Mon ressenti
-
 Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constante du jeu. J'aiffirme que c'est le cas. 
 
 
@@ -35,16 +34,13 @@ Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'imp
 Traitement audiovisuel, conception d’une expérience multimédia et installation multimédia.
 
 
-## Logiciel à utilisé
-Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel qui permet d'exercer toute sorte de tâches du Multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia.
+## Logiciel présenter
+Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performant et flexible pour gérér des projets lourds et complexes. C'est un logiciel qui permet d'exercer toute sorte de tâches du Multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia. 
 
 
 ## Préférence
-8/10
+Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori. 
 
-
-
-Technique ou composant choisi
 
 
 Ordre de préférence de 1 à 5
