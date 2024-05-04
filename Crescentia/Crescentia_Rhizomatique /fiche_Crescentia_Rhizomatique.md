@@ -5,6 +5,8 @@ deux projecteur superposer pour une meilleur visibilité à cause de la distance
 
 
 # Rhizomatique
+[![Rhizomatique expérience](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4f1672b953321228520aa276f5bd3db9c924d5bb/Crescentia/Crescentia_Rhizomatique%20/Medias/Rhizomatique_exp%C3%A9rience.png)()
+
 
 ## Créateurs(trices) :
 Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
