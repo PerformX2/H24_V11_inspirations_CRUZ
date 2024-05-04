@@ -5,7 +5,10 @@ Depuis la découverte de l'empreinte écologique que les êtres humains laissent
 
 Dév:
 
-Le nom de l'exposition est "Age of Union" et le nom de l'oeuvre est "The Hive". Le lieu de mise en exposition se situe à 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. Pour toutes informations du lieu, il suffit de consulter le calendrier du site web de "Age of Union" pour connaitre les coûts et les expositions. Il n'y a pas d'artiste reconnu par cette oeuvre. "The Hive est installé depuis 2022. Cette exposition est permanante. La date de fin n'est pas connue. J'ai visité l'oeuvre le 2 mars 2024. Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Au moment d'un mouvement, les interactions sont captées par des "Kinect" Xbox cachés dans le dôme en forme de ruche. L'écran en forme hexagonale à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promène dans l'écran tactile. 
+Le nom de l'exposition est "Age of Union" 
+Le nom de l'oeuvre est "The Hive". 
+Le lieu de mise en exposition: 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. 
+Pour toutes informations du lieu, il suffit de consulter le calendrier du site web de "Age of Union" pour connaitre les coûts et les expositions. Il n'y a pas d'artiste reconnu par cette oeuvre. "The Hive est installé depuis 2022. Cette exposition est permanante. La date de fin n'est pas connue. J'ai visité l'oeuvre le 2 mars 2024. Cette oeuvre est interactive. Le dôme est interactif parce qu'il y a des interactions possibles. Au moment d'un mouvement, les interactions sont captées par des "Kinect" Xbox cachés dans le dôme en forme de ruche. L'écran en forme hexagonale à l'extérieur du dôme permet aussi des interactions quand l'utilisateur se promène dans l'écran tactile. 
 
 
 Fonction?
@@ -32,6 +35,10 @@ Ce que j'ai moins aimé :
 Aspects que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
 
  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+
+https://ageofunion.com/
+
+ 
 Conclusion :
 
  Rappel des aspects présentés
