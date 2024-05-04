@@ -22,6 +22,8 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 
 
 ## Liens
+Le rapport avec l'exposition de Crescentia est le fait de croître intellectuellement en réfléchissent aux nouvelles combinaisons avec les corps spatiaux.
+
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
@@ -44,28 +46,20 @@ https://github.com/Iteration6/Effet-Papillon
 
 
 ## Mon ressenti
-
-
+Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
 
 
 ## Cours incontournables
-Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
+Traitement audiovisuel, conception d’une expérience multimédia et installation multimédia.
 
 
-## Logiciel à utilisé
-Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel qui permet 
+## Logiciel présenté
+Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performant et flexible pour gérér des projets lourds et complexes. C'est un logiciel qui permet d'accomplir toute sorte de tâches du multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia. 
 
 
 ## Préférence
-8/10
+Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori.
 
-
-
-Technique ou composant choisi
-
-
-Ordre de préférence de 1 à 5
-Cette exposition est classée en quatrième place parce que, comparée aux autres projets, elle n'avait pas trop de choses qui me semblaient amusantes. J'apprécie le fait que l'image change en fonction du bouton que tu cliques et que les lumières du podium changent, mais c'est tout. Je trouve que cela ne rivalise pas avec des projets comme Canevas Cosmique ou Kigo.
 
 # Age of Union - The Hive
 
