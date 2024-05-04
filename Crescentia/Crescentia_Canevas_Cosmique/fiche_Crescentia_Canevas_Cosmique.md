@@ -7,7 +7,8 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 ## Liens
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
-Lien du projet (Github Crescentia)
+
+Lien du projet (Github Crescentia):
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
