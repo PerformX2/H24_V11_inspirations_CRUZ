@@ -7,10 +7,10 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 ## Liens
 Le rapport avec l'exposition de Crescentia est le fait de croître intellectuellement en réfléchissent aux nouvelles combinaisons avec les corps spatiaux.
 
-Lien (TIM Crescentia):
+Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
-Lien (Github Crescentia):
+Lien du projet (Github Crescentia):
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
@@ -29,7 +29,7 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertisement susciter sur l'utilisateur.
+Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
 
 
 ## Cours incontournables
@@ -37,15 +37,12 @@ Traitement audiovisuel, conception d’une expérience multimédia et installati
 
 
 ## Logiciel présenté
-Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performant et flexible pour gérér des projets lourds et complexes. C'est un logiciel qui permet d'exercer toute sorte de tâches du Multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia. 
+Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performant et flexible pour gérér des projets lourds et complexes. C'est un logiciel qui permet d'accomplir toute sorte de tâches du multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia. 
 
 
 ## Préférence
 Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori. 
 
-
-
-11/10 difficulté selon élève de 3e année -> touch designer (cause) Conclusion, les logiciels sont une difficultées. C'est ardu de savoir comment bien métriser tous les logiciels
 
 # Age of Union - The Hive
 
