@@ -14,12 +14,6 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 ## Liens
 Le lien avec l'exposition Crescentia est de découvrir toujours plus de combinaisons dans ce monde abstrait. Il est possible de croitre comme utilisateur en réfléchissent aux nouvelles combinaisons.
 
-Lien du projet (TIM Crescentia):
-https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
-
-Lien du projet (Github Crescentia):
-https://github.com/Sonalux2024/Sonalux/
-
 
 ## Installation 
 
@@ -49,6 +43,12 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 ## Préférence
 Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori. 
+
+Lien du projet (TIM Crescentia):
+https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
+
+Lien du projet (Github Crescentia):
+https://github.com/Sonalux2024/Sonalux/
 
 
 
