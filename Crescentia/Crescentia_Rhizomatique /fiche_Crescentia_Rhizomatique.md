@@ -19,16 +19,10 @@ Le lien avec l'exposition Crescentia est d'explorer le subconscient afin de réf
 ## Installation 
 Avant de commencer l'installation, l'équipe a dû préparer l'espace dans le studio en déterminant l'emplacement précis de la toile interactive, des projecteurs et des équipements audio. La toile interactive, qui sert de point central de l'expérience, a été installée en premier. Cela impliquait de la fixer solidement dans l'espace et de la connecter aux capteurs nécessaires pour détecter les interactions des participants. Ensuite, les projecteurs ont été installés pour projeter les images et les vidéos immersives sur les murs environnants. Il était essentiel de positionner les projecteurs de manière à ce qu'ils offrent la meilleure qualité d'image et la meilleure couverture possible dans l'espace. Les équipements audio ont été configurés pour fournir un son immersif qui accompagne les projections visuelles. Cela incluait la mise en place de haut-parleurs dans l'espace et la connexion à la source audio.(Première visite)Une fois tous les composants installés, l'équipe a procédé à la calibration de l'ensemble du système pour s'assurer que la toile interactive fonctionnait correctement avec les projecteurs et les équipements audio. Des tests ont été effectués pour vérifier la sensibilité de la toile aux interactions et pour s'assurer que les projections visuelles étaient alignées et nettes. (Deuxième visite)Après les tests initiaux, des ajustements ont pu être nécessaires pour optimiser l'expérience utilisateur et garantir que tous les éléments fonctionnaient harmonieusement ensemble. Cela pourrait inclure des modifications de l'éclairage, du positionnement des projecteurs ou des réglages audio.
 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
 
 ## Schéma de l'installation
 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+![Rhizomatique_plantation](Medias/rhizomatique_plantation.png)
 
 
 ## Mon ressenti
