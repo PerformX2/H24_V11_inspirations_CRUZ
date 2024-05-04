@@ -42,7 +42,7 @@ Le rapport avec l'exposition de Crescentia est le fait de croître intellectuell
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
+J'ai adoré l'originalité et les efforts pour un travail si compliqué en explorant le cycle de vie d'un pommier et mettant en lumière l'effet papillon à travers des éléments électroniques. C'est une expérience très jolie, sensorielle et éducative qui souligne l'impact des actions individuelles sur un système complexe.
 
 
 ## Cours incontournables
