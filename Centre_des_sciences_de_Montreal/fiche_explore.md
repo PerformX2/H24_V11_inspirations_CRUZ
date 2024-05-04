@@ -27,26 +27,24 @@ En 2015 environ
 
 
 ## Description
-
-
+Cette oeuvre sert simplement à se voir de trois manières différentes. Dans le premier écran, on peut voir le monde sous l'effet des rayons ultraviolets. Cela permet de se voir en noir et blanc. Dans le deuxième écran, on peut voir le monde normalement. C'est juste un mirroir electronique. Dans le troisième, on peut voir le monde sous l'effet des rayons infrarouges. Cela permet de voir la température de toutes les personnes et les objets. 
 
 
 ## Type d'installation 
-
-
+Cette oeuvre est interactive. Les trois écrans offrent la possibilité d'interagir en voyant différents objets ou personnes à travers la caméra. 
 
 
 ## Fonction du dispositif
+Par exemple, je peux montrer le sac de mon ami à la caméra de rayons infrarouges pour voir quelle est la température. 
 ![Centre_des_sciences_Montreal_oeuvre_fonction.jpg](Medias/Centre_des_sciences_Montreal_oeuvre_fonction.jpg)
 
 
 ## Mise en espace 
-
 ![Centre_des_sciences de_Montreal_oeuvre_survol.jpg](Medias/Centre_des_sciences_Montreal_oeuvre_survol.jpg)
 
 
 ## Composantes et techniques 
-C'est la caméra de chacun des modules qui filme avec son propre filtre intégré. Il n'y a pas d'autres étapes de traitement. Les lumières au-dessus de celle du UV, sont là seulement pour créer plus de luminosité sur le participant afin que la caméra puisse bien le voir sur toute sa hauteur. Au toit, on retrouve quelques branchements pour les lumières qui illuminent les visiteurs.
+C'est la caméra de chacun des modules qui filme avec son propre filtre intégré. Il n'y a pas d'étapes de traitement. Les lumières au-dessus de celle du UV, sont là seulement pour créer plus de luminosité sur le participant afin que la caméra puisse bien le voir sur toute sa hauteur. Au toit, on retrouve quelques branchements pour les lumières qui illuminent les visiteurs.
 
 ![Centre_sciences_Montreal_oeuvre_installation.jpg](Medias/Centre_sciences_Montreal_oeuvre_installation.jpg)
 
