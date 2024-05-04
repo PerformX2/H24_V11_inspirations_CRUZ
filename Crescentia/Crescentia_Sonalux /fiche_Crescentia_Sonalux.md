@@ -21,7 +21,7 @@ Une visite du lieu d'installation a été effectuée pour évaluer l'espace disp
 
 
 ## Mon ressenti
-J'ai vraiment aimé cette oeuvre. Je pense que cette oeuvre est très complète. C'est une oeuvre basé sur la découverte de nouvelle combinaisons de sons et de visuels. Je pense que c'est un projet qui a très bien marche. EN plus, c'est un projet très poli. Je n'ai pas ressenti autant d'émotion que dans les autres oeuvres. L'oeuvre reste pas mal.
+J'ai vraiment aimé cette oeuvre. Je pense que cette oeuvre est très complète. C'est une oeuvre basé sur la découverte de nouvelle combinaisons de sons et de visuels. Je pense que c'est un projet qui a très bien marche. En plus, c'est un projet très poli. Je n'ai pas ressenti autant d'émotion que dans les autres oeuvres. L'oeuvre reste pas mal.
 
 
 ## Cours incontournables
