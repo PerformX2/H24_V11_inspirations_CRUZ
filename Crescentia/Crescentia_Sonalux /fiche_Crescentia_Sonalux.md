@@ -1,5 +1,5 @@
 
-Difficulté pour installer le sprojecteurs. Ils ont fait du mapping ça a permit de couper la lumière.
+Difficulté pour installer les projecteurs. Ils ont fait du mapping ça a permit de couper la lumière.
 Logiciels: VCVRack / TouchDesigner
 
 # Canevas Cosmique
@@ -9,7 +9,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 
 
 ## Liens
-
+Le lien avec l'exposition Crescentia est de découvrir toujours plus de combinaisons dans ce monde abstrait. Il est possible de croitre comme utilisateur en réfléchissent aux nouvelles combinaisons.
 
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
