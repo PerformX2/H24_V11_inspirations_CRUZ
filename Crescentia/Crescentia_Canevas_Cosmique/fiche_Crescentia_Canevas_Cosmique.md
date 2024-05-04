@@ -5,10 +5,12 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 
 
 ## Liens
-Lien du projet (TIM Crescentia):
+Le rapport avec l'exposition de Crescentia est le fait de croître intellectuelement en réfléchissent aux nouvelles combinaisons avec les corps spaciaux.
+
+Infotmations du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
-Lien du projet (Github Crescentia):
+Informations du projet (Github Crescentia):
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
