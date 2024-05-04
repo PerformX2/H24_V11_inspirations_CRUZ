@@ -24,14 +24,10 @@ Explore
 ## Année de réalisation
 En 2015 environ
 
-![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
-
 
 ## Description
 
-![image Lien ruche](Medias/Ecran_ruche_lien_abeilles.jpg)
-
-![image Cartel_The_Hive](Medias/Cartel_The_Hive.JPG)
+![Centre_des_sciences_Montreal_oeuvre_survol.jpg](Medias/Centre_des_sciences_Montreal_oeuvre_survol.jpg)
 
 
 ## Type d'installation 
@@ -39,8 +35,7 @@ En 2015 environ
 
 
 ## Fonction du dispositif
-[![Dôme fonction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/3588ed2e96a18e5be6105c688ee21d6ba48a2042/Age_of_union_The_Hive/Medias/D%C3%B4me_fin_exposition.png)](https://www.youtube.com/watch?v=F0KPy2_7XhI?)
-[![Écran ruche fonction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/e414ba6741342ab153274595b04aa99a7e8970a1/Age_of_union_The_Hive/Medias/%C3%89cran_ruche_projection_adapt%C3%A9es.png)](https://www.youtube.com/watch?v=Y1HItlu8SoQ&list=PLcwpEbanae5JuiKFvHSgmDZ3p3yQLQfjU&index=6)
+![Centre_des_sciences_Montreal_oeuvre_fonction.jpg](Medias/Centre_des_sciences_Montreal_oeuvre_fonction.jpg)
 
 
 ## Mise en espace 
