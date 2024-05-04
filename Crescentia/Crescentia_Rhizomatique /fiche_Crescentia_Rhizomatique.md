@@ -51,7 +51,7 @@ Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'exp
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
-Lien du projet (Github Crescentia)
+Lien du projet (Github Crescentia):
 https://github.com/TIM-Celestia/Rhizomatique
 
 
