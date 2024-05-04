@@ -2,7 +2,7 @@ Le jeu consiste à esquiver les obstavles rectangulaires. Il faut toucher les X 
 
 Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illuminer bcp plus le monde virtuel et il y a des limuieres acrochée aux supports metalliques du toits. La “safezone” est illuminées
 
-# Canevas Cosmique
+# Kigo
 
 ## Créateurs(trices) :
 Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
