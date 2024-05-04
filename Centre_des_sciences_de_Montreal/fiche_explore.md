@@ -44,8 +44,8 @@ Si possible, est-ce que vous pouvez prendre une photo de l’intérieur d’un d
 
 Bonjour Nicolas, voici les photos. C'est la caméra de chacun des modules qui filme avec son propre filtre intégré; il n'y a donc pas d'autres étapes de traitement. Les lumières au-dessus de celle du UV, sont là seulement pour créer plus de luminosité sur le participant afin que la caméra puisse bien le voir sur toute sa hauteur.
 
-# Age of Union - The Hive
-![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
+# Centre des sciences de Montreal - Explore - 3 Écrans avec différentes lumières
+![image Age of Union collage](Medias/Cen)
 
 
 ## Nom de l'exposition
