@@ -6,37 +6,42 @@ Depuis la découverte de l'empreinte écologique que les êtres humains laissent
 Dév:
 
 Le nom de l'exposition est "Age of Union" 
+
 Le nom de l'oeuvre est "The Hive". 
+
 Le lieu de mise en exposition: 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. 
+
 Coûts
+
 Il n'y a pas d'artiste reconnu par cette oeuvre. 
+
 "The Hive est installé depuis 2022. 
+
 Cette exposition est permanante. La date de fin n'est pas connue. 
+
 J'ai visité l'oeuvre le 2 mars 2024. 
+
 Cette oeuvre est interactive. Le dôme est interactif + l'écran en forme hexagonale à l'extérieur du dôme
 
 Fonction? (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 Ruche Équilibre avec harmonie ecosystèmes (naturel, animal et humain)
 
 The Hive:
-écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. deux projecteurs pont d'éclairage.
+Écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. deux projecteurs pont d'éclairage.
 
-dôme,
+Dôme,
 Toit: projecteur message entrée. quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Projecteur reflète sur une boule de miroir. les plexiglas filtre blanc 
 
 À terre: il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. disposition égale 
 le long câblage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les planches noires et les ponts d'éclairages du toit.
 
-Évaluation critique :
-
-Exprimer mon expérience :
-Description de votre expérience du dispositif
+Exprimer/Descrire mon expérience du dôme et la ruche
 
 Description de l'interactivité/contemplation/immersion/fonction
 
-des gestes à poser
+Gestes à poser
 
-etc...
+Info extra...
 
 Ce que j'ai aimé :
 Ce qui m'a plu et justifiez
@@ -44,9 +49,11 @@ Ce qui m'a plu et justifiez
 M'a donné des idées et justifiez
 
 Ce que j'ai moins aimé :
-Aspects que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
+Je ferais en sorte que l'écran ruche ait plus de fonctions d'accessibilité. Je ferais en sorte qu'il y ait un chaise au poste de l'écran ruche parce que c'est long s'éduquer.
 
- Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
+
+Liens avec autres oeuvres: Mise en relation avec d'autres expériences, oeuvres ou dispositifs(LIRE EN BAS)
+
 
 
 Conclusion :
@@ -75,8 +82,7 @@ L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de 
 ![image Dôme_fabrication](Medias/Dôme_fabrication.jpg)
 
 # Mise en relation avec d'autres expériences, oeuvres ou dispositifs
-"The Hive" peut être comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
-
+Si je devais choisir parmi une des oeuvres découvertes cette session je choisirais Jérémy Shaw parce qu'on assite une présentation comme dans le dôme. Derrière l'expression artistique, on retrouve un message par les conceptualisateurs de l'oeuvre ou les artistes. "The Hive" peut être aussi comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
 
 ### Conscientisation en agissant
 ![image Qr](Medias/The_Hive_conscientiser_action.jpg)
