@@ -2,8 +2,7 @@
 Intro:
 
 Depuis la découverte de l'empreinte écologique que les êtres humains laissent sur la planète, nous sommes porté à agir en conséquence. C'est pourquoi l'exposition que j'ai visité "Age of Union" souhaite sensibiliser les gens à faire attention à notre empreinte. "Age of Union" possède une collection permanente de plusieurs oeuvres multimédia qui serviront à passer le message pour conscientiser tout le monde. Cependant, la sensibilisation de l'emprunte écologique est présentée sur l'oeuvre qui se nomme "The Hive".
-
-Le nom de l'exposition est "Age of Union" et le nom de l'oeuvre est "The Hive". Le lieu de mise en exposition 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. Pour la vente des billet, il suffit de consulter le calendrier de site web de "Age of Union" pour connaitre les coûts.
+Le nom de l'exposition est "Age of Union" et le nom de l'oeuvre est "The Hive". Le lieu de mise en exposition se situe à 7049 Rue Saint-Urbain, Montreal QC H2S 3H4. Pour toutes informations du lieu, il suffit de consulter le calendrier du site web de "Age of Union" pour connaitre les coûts et les expositions. Il n'y a pas d'artiste reconnu par cette oeuvre. "The Hive est installé depuis 2022. Cette exposition est permanante. La date de fin n'est pas connue.
 
 Type d'exposition
 Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien dirigant à la collection permanante: (https://ageofunion.com/permanent-collection/)
