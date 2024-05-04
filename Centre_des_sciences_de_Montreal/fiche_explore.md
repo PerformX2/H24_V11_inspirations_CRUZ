@@ -65,11 +65,10 @@ J'ai visité l'exposition le 10 avril 2024.
 
 
 ## Titre de l'oeuvre
-Explore
-
+Inconnu. Voir la description pour savoir comment ça marche. 
 
 ## Nom de l'exposition
-Inconnu. Voir la description pour semaine. 
+Explore
 
 
 ## Année de réalisation
