@@ -30,17 +30,10 @@ Le rapport avec l'exposition de Crescentia est le fait de croître intellectuell
 ## Installation 
 Au cours de la deuxième semaine, l'équipe a installé des projecteurs, des enceintes et des fairylights. Des tests ont été effectués pour créer la structure du support des écrans et pour envoyer du contenu NDI dans TouchDesigner. La troisième semaine a été consacrée à des ajustements visuels et techniques. Des tests ont été effectués pour les keystones des projecteurs, et les premiers visuels ont été créés dans TouchDesigner. La quatrième semaine, il y a eu l'installation des fairylights restants et des éléments décoratifs était réalisée. L'installation a été préparée pour les présentations, et des tests ont été effectués pour s'assurer que tout fonctionnait correctement. Pour la semaine cinq, il y a eu des ajustements des intéractions pour résoudre les problèmes techniques, l'installation de la switch pour les ports internet. (Première visite) Aussi, ils ont ajouter l'intégration des sons et visuels finaux dans l'espace. Ils ont fait des tests des visuels des arbres sur les projecteurs. (Deuxième visite) Le temps qui restait a été prit pour finaliser les visuels, l'installation des derniers éléments décoratifs, la préparation de l'installation pour les présentations. 
 
- 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
 
 ## Schéma de l'installation
 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+![Effet_papillon_cartographie](Médias/Effet_papillon_cartographie.jpg)
 
 
 ## Mon ressenti
