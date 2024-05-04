@@ -8,7 +8,7 @@ Techniciens multimedia objets reparations
 
 Il y a tjrs des techniciens sur place 
 
- cahier de charge sert à savoir quoi faire en cas de des bris ou changements pour etre autonome. 
+cahier de charge sert à savoir quoi faire en cas de des bris ou changements pour etre autonome. 
 
 Besoin particulier sonores ou visuels
 
