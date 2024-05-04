@@ -7,7 +7,7 @@ deux projecteur superposer pour une meilleur visibilité à cause de la distance
 # Rhizomatique
 
 ## Créateurs(trices) :
-Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
+Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic
 
 
 ## Liens
