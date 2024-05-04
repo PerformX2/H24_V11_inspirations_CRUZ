@@ -17,6 +17,8 @@ L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de 
 # Mise en relation avec d'autres expériences, oeuvres ou dispositifs
 "The Hive" peut être comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
 
+
+### Conscientisation en agissant
 ![image Qr](Medias/The_Hive_conscientiser_action.jpg)
 
 
