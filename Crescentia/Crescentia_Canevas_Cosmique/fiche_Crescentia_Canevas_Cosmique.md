@@ -16,15 +16,16 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 ## Mon ressenti
 
 ## Cours incontournables
+Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
 
 ## Logiciel à utilisé
+TouchDesigner
+
 
 ## Préférence
 8/10
 
 
-# Cours indispensables.
-Je pense que pour réaliser ce projet, les cours indispensables sont : Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
 
 Technique ou composant choisi
 Je ne connaissais pas le logiciel Arduino IDE. C'est un logiciel qui permet de créer des objets électroniques interactifs grâce à des cartes électroniques dotées de microcontrôleurs.
