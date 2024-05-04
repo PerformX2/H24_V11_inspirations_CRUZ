@@ -1,8 +1,8 @@
 # Sortie(PETITE CHAMBRE ET EN GENERALE)
 
-Les tuipes sont visée. Permet de passer les branchements par le sol
+branchements par le sol
 
-C’est assez rare les bramchements aux plafonds c’est plus quand il y a des grandes infrastructures
+rare les branchements aux plafonds c’est plus quand il y a des grandes infrastructures
 
 Techniciens multimedia objets reparations
 
@@ -10,29 +10,21 @@ Il y a tjrs des techniciens sur place
 
 cahier de charge sert à savoir quoi faire en cas de des bris ou changements pour etre autonome. 
 
-Besoin particulier sonores ou visuels
-
 difficultés quantité de visiteurs(bruyant)
 
 Fermeture programmée ou pas ça depend au choix
 
 Prototype envoyer par les companies pour les essayer avant d’exposer au public
 
-Transmission de commentaires pour la concepción 
+Transmission de commentaires pour la conception
 
-Conception —> Officiel au public (etapes)
-
-Oeuvres permanante entre 8-10 ans
-
-Oeuvres temporaires entre 6mois et 2ans
+Conception —> ajustement ou pas —>Officiel au public (etapes)
 
 Quand les choses fonctionnent moins bien, des changements sont proposer. 
 
-Exemple: robot plante bcp
-
 Les techniciens ne peuvent se permet autant d’achalandage.
 
-Oeuvres plus educatives que emotives ici au centre de science 
+Oeuvres plus educatives que emotives au centre de science 
 
 3 écrans différents avec ultraviolet/normal/infrarouge
 
