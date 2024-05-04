@@ -31,7 +31,7 @@ En 2015 environ
 
 
 ## Type d'installation 
-
+![Centre_des_sciences_Montreal_entrée extérieur_oeuvre_action.jpg](Medias/Centre_des_sciences_Montreal_entréeextérieur_oeuvre_action.jpg)
 
 
 ## Fonction du dispositif
