@@ -9,7 +9,7 @@ Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illumi
 
 
 ## Liens
-
+Le rapport avec l'expositon de Crescentia est de se dépasser comme personne pour pouvoir croitre.
 
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
