@@ -36,7 +36,7 @@ Traitement audiovisuel, conception d’une expérience multimédia et installati
 
 
 ## Logiciel à utilisé
-Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel qui permet 
+Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel qui permet d'exercer toute sorte de tâches du Multimédia. Il est possible de travailler sur des performances en direct, sur la création d'expériences interactives en temps réel comme des oeuvres multimédia.
 
 
 ## Préférence
