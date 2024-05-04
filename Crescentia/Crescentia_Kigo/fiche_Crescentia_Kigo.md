@@ -47,6 +47,7 @@ Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'exp
 ### Sources
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-Lien du projet (Github Crescentia)
+
+Lien du projet (Github Crescentia):
 https://github.com/espace-interactif/Kigo
 
