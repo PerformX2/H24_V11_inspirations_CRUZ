@@ -53,7 +53,7 @@ Age of Union: The Hive
 
 
 ## Lieu de mise en exposition
-7049 Rue Saint-Urbain, Montreal QC H2S 3H4
+2 Rue de la Commune Ouest, Montréal QC H2Y 4B2 
 
 
 ## Type d'exposition
@@ -61,15 +61,15 @@ Cette exposition est permanante. La date de fin n'est pas connue. Voici le lien 
 
 
 ## Date de ma visite
-J'ai visité l'exposition le 2 mars 2024.
+J'ai visité l'exposition le 10 avril 2024.
 
 
 ## Titre de l'oeuvre
-The Hive
+Explore
 
 
 ## Nom de l'exposition
-Age of Union
+Inconnu. Voir la description pour semaine. 
 
 
 ## Année de réalisation
