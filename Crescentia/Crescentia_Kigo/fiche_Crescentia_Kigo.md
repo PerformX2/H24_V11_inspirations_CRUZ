@@ -13,11 +13,6 @@ Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illumi
 ## Liens
 Le rapport avec l'exposition de Crescentia est de se dépasser comme personne. Cela est possible en ayant un plus grand score à chaque essai pour pouvoir croitre.
 
-Lien du projet (TIM Crescentia):
-https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-Lien du projet (Github Crescentia)
-https://github.com/espace-interactif/Kigo
-
 
 ## Installation 
 
@@ -47,3 +42,11 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 ## Préférence
 Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori.
+
+
+### Sources
+Lien du projet (TIM Crescentia):
+https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+Lien du projet (Github Crescentia)
+https://github.com/espace-interactif/Kigo
+
