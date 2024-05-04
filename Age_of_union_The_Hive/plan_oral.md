@@ -1,5 +1,5 @@
 # Présentation
-Depuis la découverte de l'empreinte écologique que les êtres humains laissent sur la planète, nous sommes porter à agir en conséquence. C'est pourquoi l'exposition que j'ai visité "Age of Union" souhaite sensibiliser les gens à faire attention à notre empreinte. "Age of Union" possède une collection permanente de plusieurs oeuvres multimédia qui serviront à passer la message pour conscientiser tout le monde. Cependant, la sensibilisation de l'emprunte écologique est présentée sur l'oeuvre qui se nomme "The Hive".
+Depuis la découverte de l'empreinte écologique que les êtres humains laissent sur la planète, nous sommes porter à agir en conséquence. C'est pourquoi l'exposition que j'ai visité "Age of Union" souhaite sensibiliser les gens à faire attention à notre empreinte. "Age of Union" possède une collection permanente de plusieurs oeuvres multimédia qui serviront à passer le message pour conscientiser tout le monde. Cependant, la sensibilisation de l'emprunte écologique est présentée sur l'oeuvre qui se nomme "The Hive".
 
 
 
