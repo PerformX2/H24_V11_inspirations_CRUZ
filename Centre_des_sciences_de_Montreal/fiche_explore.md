@@ -1,6 +1,8 @@
-# Centre des sciences de Montreal - Explore - 3 Écrans avec différentes lumières captées
+# Centre des sciences de Montreal - Explore
 ![Centre_sciences_Montreal_entrée extérieur](Medias/Centre_sciences_Montreal_entrée_extérieur.jpg)
 
+## Nom de l'exposition
+Centre des sciences de Montreal - Explore - 3 Écrans avec différentes lumières captées
 
 ## Lieu de mise en exposition
 2 Rue de la Commune Ouest, Montréal QC H2Y 4B2 
