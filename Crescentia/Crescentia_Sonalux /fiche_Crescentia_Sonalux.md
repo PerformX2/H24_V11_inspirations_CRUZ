@@ -5,10 +5,12 @@ Logiciels: VCVRack / TouchDesigner
 # Canevas Cosmique
 
 ## Créateurs(trices) :
-Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
+Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 
 
 ## Liens
+
+
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 
