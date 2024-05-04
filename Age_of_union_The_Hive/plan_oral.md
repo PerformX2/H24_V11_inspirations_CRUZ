@@ -16,8 +16,16 @@ J'ai visité l'oeuvre le 2 mars 2024.
 Cette oeuvre est interactive. Le dôme est interactif + l'écran en forme hexagonale à l'extérieur du dôme
 
 Fonction? (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
+Ruche Équilibre avec harmonie ecosystèmes (naturel, animal et humain)
 
-The Hive est composé d'un grand aménagement. Du côté de l'écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. De plus, il y a deux projecteurs accrochés sur le pont d'éclairage. Du côté du dôme, il y a un projecteur suspendu avant de rentrer dans le dôme qui indique un message. À l'intérieur du dôme, il y a une planche circulaire en bois qui tient quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Il y a un projecteur à terre qui reflète la projection sur une boule de miroir. Quand la projection est reflétée sur les murs du dôme, les plexiglas contiennent un filtre blanc qui permet l'affichage des projections. À terre dans le quatre coins du dôme, il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. Les Kinect détectent le mouvement à l'arrivée d'une personne pour déclencher la présentation. La disposition égale des composantes de l'oeuvre permet une distribution parfaite du vent et des sons dans le dôme. Sans oublier, le long câblage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les ponts d'éclairages du toit.
+The Hive:
+écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. deux projecteurs pont d'éclairage.
+
+dôme,
+Toit: projecteur message entrée. quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Projecteur reflète sur une boule de miroir. les plexiglas filtre blanc 
+
+À terre: il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. disposition égale 
+le long câblage pour alimenter tous les électroniques depuis les sources d'électricité cachées dans les planches noires et les ponts d'éclairages du toit.
 
 Évaluation critique :
 
