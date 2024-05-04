@@ -26,12 +26,6 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 ## Liens
 Le rapport avec l'exposition de Crescentia est le fait de croître intellectuellement en réfléchissent aux nouvelles combinaisons avec les corps spatiaux.
 
-Lien du projet (TIM Crescentia):
-https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
-
-Lien du projet (Github Crescentia):
-https://github.com/Iteration6/Effet-Papillon
-
 
 ## Installation 
 
@@ -61,3 +55,11 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 ## Préférence
 Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori.
+
+
+### Sources
+Lien du projet (TIM Crescentia):
+https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
+
+Lien du projet (Github Crescentia):
+https://github.com/Iteration6/Effet-Papillon
