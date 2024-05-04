@@ -4,7 +4,7 @@ Bruit tres liquide comme un slime glouu glou  blooom. Quand tu hold lea memoures
 deux projecteur superposer pour une meilleur visibilité à cause de la distance
 
 
-# Canevas Cosmique
+# Rhizomatique
 
 ## Créateurs(trices) :
 Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
