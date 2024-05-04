@@ -1,9 +1,6 @@
 # Présentation
 Depuis la découverte de l'empreinte écologique que les êtres humains laissent sur la planète, nous sommes porté à agir en conséquence. C'est pourquoi l'exposition que j'ai visité "Age of Union" souhaite sensibiliser les gens à faire attention à notre empreinte. "Age of Union" possède une collection permanente de plusieurs oeuvres multimédia qui serviront à passer le message pour conscientiser tout le monde. Cependant, la sensibilisation de l'emprunte écologique est présentée sur l'oeuvre qui se nomme "The Hive".
 
-
-
-
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
 # Contextualisation de l'oeuvre
@@ -16,7 +13,7 @@ L'exposition "Age of Union" se situe dans le cadre pour la communauté d'activis
 
 
 # Justification de l'appréciation
-L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de manière engageante et accessible. Il est possible de transmettre le message efficacement en se servant d'une structure qui soutient la vie sur terre. Dans ce cas, la ruche répresente l'équilibre de notre planète. L'équilibre est possible grâce à l'harmonie entre les écosystèmes. La métaphore de la ruche d'abeilles sert à représenter les enjeux climatiques. Cette représention offre une perspective nouvelle et poétique, incitant les spectateurs à réfléchir à l'impact de leurs actions sur l'environnement.
+L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de manière engageante et accessible. Il est possible de transmettre le message efficacement en se servant d'une structure qui soutient la vie sur terre. Dans ce cas, la ruche représente l'équilibre de notre planète. L'équilibre est possible grâce à l'harmonie entre les écosystèmes. La métaphore de la ruche d'abeilles sert à représenter les enjeux climatiques. Cette représentation offre une perspective nouvelle et poétique, incitant les spectateurs à réfléchir à l'impact de leurs actions sur l'environnement.
 
 ![image Dôme_fabrication](Medias/Dôme_fabrication.jpg)
 
