@@ -17,6 +17,8 @@ Controle des lumieres redirections
 
 # Effet-papillon
 
+[![Effet papillon interaction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/9e7ae80213bb99786f4815810f2ac7a35f9122bb/Crescentia/Crescentia_Effet_Papillon/M%C3%A9dias/Effet_papillon_interaction.png)](https://www.youtube.com/watch?v=18TErCwIg-4&list=PLcwpEbanae5Jt3niuv6kGI_GReuVFyAzD&index=2)
+
 ## Créateurs(trices) :
 Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre
 
