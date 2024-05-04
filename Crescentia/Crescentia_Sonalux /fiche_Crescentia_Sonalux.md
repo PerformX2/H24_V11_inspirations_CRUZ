@@ -21,9 +21,7 @@ Une visite du lieu d'installation a été effectuée pour évaluer l'espace disp
 
 ## Schéma de l'installation
 
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
-
-![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+![Sonalux_schema_plantation](Medias/Sonalux_schema_plantation.png)
 
 
 ## Mon ressenti
