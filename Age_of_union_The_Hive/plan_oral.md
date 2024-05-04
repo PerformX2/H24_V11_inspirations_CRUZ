@@ -1,3 +1,7 @@
+# Présentation
+Depuis la découverte de l'empreinte écologique que les humains laissent sur la planète, nous sommes porter à agir en conscéquence. C'est pourquoi l'exposition que j'ai visité "Age of Union" souhaite sensibilisé les gens à faire attention à notre empreinte. "Age of Union" possède une collection permanante de plusieurs oeuvres multimedia qui serviront à passer la message pour conscientiser tout le monde. Cependant, le sujet de la disscution porte sur l'oeuvre qui se nomme "The Hive".
+
+
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
 # Contextualisation de l'oeuvre
