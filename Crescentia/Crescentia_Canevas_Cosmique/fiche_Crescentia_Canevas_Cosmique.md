@@ -15,6 +15,13 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 ## Mon ressenti
 
+## Cours incontournables
+
+## Logiciel à utilisé
+
+## Préférence
+8/10
+
 
 # Cours indispensables.
 Je pense que pour réaliser ce projet, les cours indispensables sont : Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
