@@ -5,7 +5,7 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 
 
 ## Liens
-Le rapport avec l'exposition de Crescentia est le fait de croître intellectuelement en réfléchissent aux nouvelles combinaisons avec les corps spaciaux.
+Le rapport avec l'exposition de Crescentia est le fait de croître intellectuellement en réfléchissent aux nouvelles combinaisons avec les corps spatiaux.
 
 Infotmations du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
