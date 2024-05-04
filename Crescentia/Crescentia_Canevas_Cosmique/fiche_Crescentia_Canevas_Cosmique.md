@@ -28,11 +28,11 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 ## Mon ressenti
 
-
+Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constante du jeu. J'aiffirme que c'est le cas. 
 
 
 ## Cours incontournables
-Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
+Traitement audiovisuel, conception d’une expérience multimédia et installation multimédia.
 
 
 ## Logiciel à utilisé
