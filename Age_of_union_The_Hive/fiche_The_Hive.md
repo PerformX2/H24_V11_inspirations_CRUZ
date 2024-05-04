@@ -80,11 +80,11 @@ Les interactions de l'écran ruche sont assurées des utilisateurs qui pourront 
 
 
 ## Ce que j'ai aimé, ce qui m'a donné des idées
-J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre la ruche et notre écosystème. J'ai appris à rechercher mieux mes sources grâce à mon échange exclusive avec le constructeur du dôme.
+J'ai adoré cette sortie, parce que j'ai sous-estimé le lien intéressant entre la ruche et notre écosystème. Alors, j'ai réussi à apprendre à mieux penser aux détails que j'ignorait beaucoup. J'ai appris à rechercher mieux mes sources grâce à mon échange exclusive avec le constructeur du dôme.
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'assoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre pert de l'audience et de la qualité. J'aurais aussi laissé le choix de pouvoir passer les diapositives rapidement parce qu'il manquait de dynamique et d'un bon rythme afin d'avoir une experience efficiante de qualité avec tous les visiteurs. 
+À mon opinion, l'écran tactile en forme d'hexagone aurait dû avoir des chaises pour s'asseoir parce qu'il y avait trop d'informations. Si s'était mon oeuvre, les visiteurs seraient partis plus vite ce qui fait en sorte que mon oeuvre perd de l'audience et de la qualité. J'aurais aussi laissé le choix de pouvoir passer les diapositives rapidement parce qu'il manquait de dynamique et d'un bon rythme afin d'avoir une expérience efficiente de qualité avec tous les visiteurs.
 
 
 # Informations additionnelles
