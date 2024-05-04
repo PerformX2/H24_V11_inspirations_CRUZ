@@ -1,20 +1,3 @@
-PIWER AUNPLAFOND
-ECRAN QUI MARCHENT AVEC DES RAZBERRY PIE
-CHAQUE ECRAN EST RELIER
-VALVE QUAND UTILISER LUMIETE BLEU
-ET PLUIS SUR ECRANS
-
-EFFET PAPILLION CAR UN CHEVEREUIL MANGE LA POMME DROPPER PAR NOUS
-IL VA NOURRIR SA FAMILLE —> effet papilion
-
-VIDEO WALL PROCESSER POUR ENVIYER UN GROS FEED
-ENVOIT DU AVEC EXTENDER SALLE DES MATRICES
-ATOM micro controleur de son
-hack du protocole
-ex du midi vers du hdmi
-exploration 360 de l’arbre mecanique
-Controle des lumieres redirections
-
 # Effet-papillon
 
 [![Effet papillon interaction](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/9e7ae80213bb99786f4815810f2ac7a35f9122bb/Crescentia/Crescentia_Effet_Papillon/M%C3%A9dias/Effet_papillon_interaction.png)](https://www.youtube.com/watch?v=18TErCwIg-4&list=PLcwpEbanae5Jt3niuv6kGI_GReuVFyAzD&index=2)
