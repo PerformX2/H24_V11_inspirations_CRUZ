@@ -7,7 +7,7 @@ deux projecteur superposer pour une meilleur visibilité à cause de la distance
 # Rhizomatique
 
 ## Créateurs(trices) :
-Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic
+Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 
 
 ## Liens
