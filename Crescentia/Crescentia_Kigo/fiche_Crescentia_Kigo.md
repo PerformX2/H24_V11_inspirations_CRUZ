@@ -5,7 +5,7 @@ Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illumi
 # Canevas Cosmique
 
 ## Créateurs(trices) :
-Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
+Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
 
 
 ## Liens
