@@ -44,7 +44,7 @@ Au cours de la deuxième semaine, l'équipe a installé des projecteurs, des enc
 
 
 ## Mon ressenti
-J'ai adoré l'originalité et les efforts pour un travail si compliqué en explorant le cycle de vie d'un pommier et mettant en lumière l'effet papillon à travers des éléments électroniques. C'est une expérience très jolie. Les aspects sensoriels et éducatifs soulignant bien l'impact des actions individuelles sur un système complexe. 
+J'ai adoré l'originalité et les efforts pour un travail si compliqué en explorant le cycle de vie d'un pommier et mettant en lumière l'effet papillon à travers des éléments électroniques. C'est une expérience très jolie. Les aspects sensoriels et éducatifs soulignant bien l'impact des actions individuelles sur un système complexe. J'ai remarqué que l'ordi avait de la misère à charger tous les éléments dans TouchDesigner. Cette difficulté ralentissait l'expérience. Parfois le logiciel bloquait et il fallait le régler manuellement.
 
 
 ## Cours incontournables
