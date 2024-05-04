@@ -3,20 +3,36 @@
 ## Créateurs(trices) :
 Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
 
+
 ## Liens
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 Lien du projet (Github Crescentia)
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
-## Installation
+
+## Installation 
+
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+
 
 ## Schéma de l'installation
 
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+
+![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
+
+
 ## Mon ressenti
+
+
+
 
 ## Cours incontournables
 Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
+
 
 ## Logiciel à utilisé
 TouchDesigner
