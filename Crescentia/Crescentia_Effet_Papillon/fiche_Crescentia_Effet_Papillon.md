@@ -24,6 +24,7 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 ## Liens
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
+
 Lien du projet (Github Crescentia):
 https://github.com/Iteration6/Effet-Papillon
 
