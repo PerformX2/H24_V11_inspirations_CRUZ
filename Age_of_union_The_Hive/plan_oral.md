@@ -36,13 +36,15 @@ Aspects que je ne souhaiterais pas retenir pour mes propres créations ou que je
 
  Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session
 
-https://ageofunion.com/
 
- 
 Conclusion :
 
  Rappel des aspects présentés
  Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+
+
+ https://ageofunion.com/
+ 
 
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
