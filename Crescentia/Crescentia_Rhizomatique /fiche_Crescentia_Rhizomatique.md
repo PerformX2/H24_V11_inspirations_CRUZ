@@ -5,7 +5,7 @@ deux projecteur superposer pour une meilleur visibilité à cause de la distance
 
 
 # Rhizomatique
-[![Rhizomatique expérience](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4f1672b953321228520aa276f5bd3db9c924d5bb/Crescentia/Crescentia_Rhizomatique%20/Medias/Rhizomatique_exp%C3%A9rience.png)(https://www.youtube.com/watch?v=Bw9wQk_8n-M&list=PLcwpEbanae5Jf9dmfOIEVqF4X6NhUG__y)
+[![Rhizomatique expérience](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4f1672b953321228520aa276f5bd3db9c924d5bb/Crescentia/Crescentia_Rhizomatique%20/Medias/Rhizomatique_exp%C3%A9rience.png)](https://www.youtube.com/watch?v=Bw9wQk_8n-M&list=PLcwpEbanae5Jf9dmfOIEVqF4X6NhUG__y)
 
 
 ## Créateurs(trices) :
