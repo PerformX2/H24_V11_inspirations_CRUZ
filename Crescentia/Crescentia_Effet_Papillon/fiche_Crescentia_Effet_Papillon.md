@@ -28,6 +28,7 @@ Le rapport avec l'exposition de Crescentia est le fait de croître intellectuell
 
 
 ## Installation 
+Au déroulement de l'installation, les journaux des participants ne fournissent pas de détails spécifiques sur ce sujet. Cependant, il est raisonnable de supposer que l'installation s'est probablement déroulée en plusieurs étapes, impliquant la mise en place des différents éléments interactifs, des tests pour s'assurer du bon fonctionnement de chaque composant, et éventuellement des ajustements pour répondre aux besoins spécifiques de l'expérience. Il est également possible que l'équipe ait rencontré des défis techniques ou logistiques tout au long du processus d'installation, ce qui est courant dans de tels projets.
 
 ![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
