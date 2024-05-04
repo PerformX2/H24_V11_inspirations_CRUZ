@@ -2,9 +2,7 @@
 Difficulté pour installer les projecteurs. Ils ont fait du mapping ça a permit de couper la lumière.
 Logiciels: VCVRack / TouchDesigner
 
-# Canevas Cosmique
-
-[![Canevas cosmique vue ensemble](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/989522648849cacf4cf5d91b01900125f5e392f1/Crescentia/Crescentia_Canevas_Cosmique/Medias/Canevas_cosmique_vue_ensemble.png)](https://www.youtube.com/watch?v=UKHRZihT_z8&list=PLcwpEbanae5KS6LFHpLidNVjHQ6Q0F_Oa)
+# Sonalux
 
 ![image Age of Union collage](Medias/Age_of_Union_présentation.jpg)
 
