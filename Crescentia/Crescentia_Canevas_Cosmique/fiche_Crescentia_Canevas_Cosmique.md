@@ -1,3 +1,14 @@
+FICHE DE PRÉSENTATION:
+NOTES ET PHOTOGRAPHIES LORS DE LA VISITE :
+Exploration des projets en création par les étudiant.es de 3e année en TIM
+Informations générales de chaque projet, selon l'ordre de préférence (de celui que j'aime le plus à celui que j'aime le moins) :
+1er projet:
+Titre du projet:
+Canevas cosmique
+Nom des créateurs(trices) :
+Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau Lien du projet lié avec le thème Crescentia:
+https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
+L'installation en cours dans les studios pour chacun des projets:
 
 11/10 difficulté selon élève de 3e année -> touch designer (cause) Conclusion, les logiciels sont une difficultées. C'est ardu de savoir comment bien métriser tous les logiciels
 
