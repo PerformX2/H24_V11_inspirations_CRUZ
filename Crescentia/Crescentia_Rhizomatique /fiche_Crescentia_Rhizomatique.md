@@ -11,7 +11,7 @@ Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic
 
 
 ## Liens
-
+Le lien avec l'exposition Crescentia est d'explorer le subconscient afin de réfléchir et apprend comme personne. Cela permet de croître.
 
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
