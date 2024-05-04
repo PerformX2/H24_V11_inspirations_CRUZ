@@ -82,7 +82,7 @@ L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de 
 ![image Dôme_fabrication](Medias/Dôme_fabrication.jpg)
 
 # Mise en relation avec d'autres expériences, oeuvres ou dispositifs
-Si je devais choisir parmi une des oeuvres découvertes cette session je choisirais Jérémy Shaw parce qu'on assite une présentation comme dans le dôme. Derrière l'expression artistique, on retrouve un message par les conceptualisateurs de l'oeuvre ou les artistes. "The Hive" peut être aussi comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
+Si je devais choisir parmi une des oeuvres découvertes cette session je choisirais Jérémy Shaw parce qu'on assite une présentation comme dans le dôme. Derrière l'expression artistique, on retrouve un message par les conceptualisateurs de l'exposition ou les artistes. "The Hive" peut être aussi comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
 
 ### Conscientisation en agissant
 ![image Qr](Medias/The_Hive_conscientiser_action.jpg)
