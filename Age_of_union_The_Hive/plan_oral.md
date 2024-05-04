@@ -42,6 +42,7 @@ Description de l'interactivité/contemplation/immersion/fonction
 Gestes à poser
 
 Info extra...
+Constructeur dôme
 
 Ce que j'ai aimé :
 Ce qui m'a plu et justifiez
