@@ -45,11 +45,12 @@ Info extra...
 
 Ce que j'ai aimé :
 Ce qui m'a plu et justifiez
+à apprendre à mieux penser aux détails que j'ignorait beaucoup. J'ai appris à rechercher mieux mes sources grâce à des échanges.
 
 M'a donné des idées et justifiez
 
 Ce que j'ai moins aimé :
-Je ferais en sorte que l'écran ruche ait plus de fonctions d'accessibilité. Je ferais en sorte qu'il y ait un chaise au poste de l'écran ruche parce que c'est long s'éduquer.
+Pas de confort écran ruche. Il y des sens qui sont occupés empechant l'immersion de l'oeuvre.
 
 
 Liens avec autres oeuvres: Mise en relation avec d'autres expériences, oeuvres ou dispositifs(LIRE EN BAS)
