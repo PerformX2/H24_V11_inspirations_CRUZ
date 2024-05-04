@@ -21,7 +21,7 @@ Une visite du lieu d'installation a été effectuée pour évaluer l'espace disp
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
+J'ai vraiment aimé cette oeuvre. Je pense que cette oeuvre est très complète. C'est une oeuvre basé sur la découverte de nouvelle combinaisons de sons et de visuels. Je pense que c'est un projet qui a très bien marche. EN plus, c'est un projet très poli. Je n'ai pas ressenti autant d'émotion que dans les autres oeuvres. L'oeuvre reste pas mal.
 
 
 ## Cours incontournables
@@ -33,7 +33,7 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 
 ## Préférence
-Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori. 
+Je côte cette expérience de 7/10 avant l'expérimentation et après 7/10 l'expérimentation. C'est ma quatrième oeuvre favori. 
 
 ### Sources
 Lien du projet (TIM Crescentia):
