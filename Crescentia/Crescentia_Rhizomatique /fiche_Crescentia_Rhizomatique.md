@@ -1,9 +1,3 @@
-Tu touche une toile et lorsqu’elle s’enfonce il y a des images/videos/moments qui s’affichent sur la projection au mur blanc. Dans le boite se situe un fort haut parleur qui fera des bruits d’une certainr force en fonction de la pression mise sur la toile
-Plus intense = Bruit plus intense
-Bruit tres liquide comme un slime glouu glou  blooom. Quand tu hold lea memoures restent.
-deux projecteur superposer pour une meilleur visibilité à cause de la distance
-
-
 # Rhizomatique
 [![Rhizomatique expérience](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/4f1672b953321228520aa276f5bd3db9c924d5bb/Crescentia/Crescentia_Rhizomatique%20/Medias/Rhizomatique_exp%C3%A9rience.png)](https://www.youtube.com/watch?v=Bw9wQk_8n-M&list=PLcwpEbanae5Jf9dmfOIEVqF4X6NhUG__y)
 
@@ -26,7 +20,7 @@ Avant de commencer l'installation, l'équipe a dû préparer l'espace dans le st
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
+Je pense que l'exécution de cette oeuvre marche bien, mais l'expérience n'est pas très touchante. Je comprends qu'on peut imaginer nos souvenirs avec ceux d'une autre personne. Le problème c'est qu'on ne se sent pas attaché aux souvenirs. On est occupé à trop refléchir pour finir comme un lunatique. Encore une fois, l'oeuvre n'est pas touchante. 
 
 
 ## Cours incontournables
