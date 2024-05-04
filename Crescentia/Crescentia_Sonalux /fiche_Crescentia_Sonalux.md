@@ -1,7 +1,3 @@
-
-Difficulté pour installer les projecteurs. Ils ont fait du mapping ça a permit de couper la lumière.
-Logiciels: VCVRack / TouchDesigner
-
 # Sonalux
 [![Sonalux poste utilisé](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/b95fbb05e4a0545214cea60a54f1038a42928373/Crescentia/Crescentia_Sonalux%20/Medias/Sonalux_poste_utilis%C3%A9.png)](https://www.youtube.com/watch?v=NHbNY96f4KQ&list=PLcwpEbanae5JdL2j68ueNnyjNNx32-Wi-&index=3)
 
