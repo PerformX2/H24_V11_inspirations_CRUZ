@@ -1,7 +1,3 @@
-Le jeu consiste à esquiver les obstavles rectangulaires. Il faut toucher les X pour recevoir un bonus. Souvent les joueurs qui sont sur le bord de la safe zone bug ton personnages en le faisent disparaitre jusqu’a tant qu’il revienne plus proche du safe zone. Parfois sa capte les jouers à 1.50 metres, alors ips doivent mettre une un deuxieme safe border pour que les gens passant ou spectateurs n’affecte l’experience des joueurs.
-
-Le jeu est plus poli. Il y a mtn un score board et un start time. Ils ont illuminer bcp plus le monde virtuel et il y a des limuieres acrochée aux supports metalliques du toits. La “safezone” est illuminées
-
 # Kigo
 [![Kigo test exposition](https://github.com/PerformX2/H24_V11_inspirations_CRUZ/blob/7be6e74b1a22c6220e633630770cfc0599aa7036/Crescentia/Crescentia_Kigo/Medias/Kigo_text_exposition.png)](https://www.youtube.com/watch?v=RgCyO_c2snI&list=PLcwpEbanae5KBK_T0bqZTOZ71D9sb8JU-)
 
@@ -24,7 +20,7 @@ L'installation en cours dans le studio consiste en la mise en place d'un project
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertissement susciter sur l'utilisateur.
+Je pense que cette oeuvre est très complète même si c'est un jeu sans fin. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. J'admire la l'envie de dépassement que ce jeu procure.
 
 
 ## Cours incontournables
