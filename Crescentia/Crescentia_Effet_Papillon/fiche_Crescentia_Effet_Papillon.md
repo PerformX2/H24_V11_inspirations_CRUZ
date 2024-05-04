@@ -15,10 +15,10 @@ ex du midi vers du hdmi
 exploration 360 de l’arbre mecanique
 Controle des lumieres redirections
 
-# Canevas Cosmique
+# Effet-papillon
 
 ## Créateurs(trices) :
-Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael Tourangeau 
+Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre
 
 
 ## Liens
