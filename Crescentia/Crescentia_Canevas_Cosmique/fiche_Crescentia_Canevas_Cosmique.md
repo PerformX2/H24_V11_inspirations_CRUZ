@@ -27,7 +27,7 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
 
 ## Mon ressenti
-Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un bon ressenti sur cette oeuvre est la curiosité et le divertisement susciter.
+Je pense que cette oeuvre est très complète même si c'est un petit jeu. L'important est le fonctionnement et la constance du jeu. J'affirme que c'est le cas. Ce qui me donne un meilleur ressenti sur cette oeuvre est la curiosité et le divertisement susciter sur l'utilisateur.
 
 
 ## Cours incontournables
