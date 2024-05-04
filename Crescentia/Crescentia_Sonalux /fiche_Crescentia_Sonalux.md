@@ -16,6 +16,7 @@ Le lien avec l'exposition Crescentia est de découvrir toujours plus de combinai
 
 
 ## Installation 
+Une visite du lieu d'installation a été effectuée pour évaluer l'espace disponible, prendre des mesures et des photos, et élaborer un schéma de plantation précis. Pendant cette période, le matériel nécessaire à l'installation a été acquis ou fabriqué, y compris les projecteurs, les haut-parleurs, les microcontrôleurs, les capteurs, etc. Les projecteurs, les haut-parleurs et autres équipements ont été installés et configurés dans le studio selon le schéma de plantation défini.(Première visite) Des tests ont été effectués pour s'assurer que tous les composants fonctionnent correctement et sont positionnés de manière optimale. Des ajustements ont été apportés au besoin. Une fois que tous les éléments de l'installation étaient en place et fonctionnaient correctement, des touches finales ont été apportées, comme la création du logo et de la bannière, la réalisation de la vidéo d'intention, etc.(Deuxième visite) Enfin, l'installation a été présentée au public, permettant aux visiteurs d'expérimenter Sonalux et de fournir des commentaires. 
 
 ![image_Vue_ensemble_the_Hive](Medias/Vue_ensemble_the_Hive.JPG)
 
