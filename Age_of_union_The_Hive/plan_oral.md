@@ -30,6 +30,7 @@ The Hive:
 Écran en forme de ruche, il y a un écran tactile dans un hexagone sur le mur. deux projecteurs pont d'éclairage.
 
 Dôme,
+
 Toit: projecteur message entrée. quatre projecteurs et deux ventilateurs. Il y a quatre projecteurs sur la planche du toit qui complètent les angles morts. Projecteur reflète sur une boule de miroir. les plexiglas filtre blanc 
 
 À terre: il y a des quatre hauts-parleurs, quatre ventilateurs et quatre Kinect. disposition égale 
