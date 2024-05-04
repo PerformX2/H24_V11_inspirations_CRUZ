@@ -5,24 +5,10 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 
 Lien du projet (TIM Crescentia):
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
-Lien du projet (Crescentia Github)
+Lien du projet (Github Crescentia)
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique
 
-Kigo par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
-Le lien de ce projet avec le thème Crescentia est que l'interface du projet est toujours changeante. Dépendamment de ce qu'on fait, le projet réagira aux paramètres que l'utilisateur met.
 
-Voici le projet lorsqu'il etait encore en cours de production
-photo photo photo
-
-Voici le projet une fois terminé
-photo photo Voici la vidéo du projet une fois terminé
-
-Voici les schémas de disposition de l'exposition
-photo
-
-Source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
-Émotion lorsque je verrai l'exposition
-Je crois que je serai indifférent en voyant le projet, car il n'y a pas vraiment de choses qui m'intéressent sur celui-ci.
 
 # Cours indispensables.
 Je pense que pour réaliser ce projet, les cours indispensables sont : Traitement audiovisuel, Installation multimédia et Conception d’une expérience multimédia.
