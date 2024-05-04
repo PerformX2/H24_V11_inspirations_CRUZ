@@ -15,12 +15,6 @@ Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 ## Liens
 Le lien avec l'exposition Crescentia est d'explorer le subconscient afin de réfléchir et apprend comme personne. Cela permet de croître.
 
-Lien du projet (TIM Crescentia):
-https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
-
-Lien du projet (Github Crescentia)
-https://github.com/TIM-Celestia/Rhizomatique
-
 
 ## Installation 
 
@@ -50,5 +44,14 @@ Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel très performan
 
 ## Préférence
 Je côte cette expérience de 7/10 avant l'expérimentation et après 9/10 l'expérimentation. C'est mon deuxième oeuvre favori.
+
+
+### Sources
+
+Lien du projet (TIM Crescentia):
+https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
+
+Lien du projet (Github Crescentia)
+https://github.com/TIM-Celestia/Rhizomatique
 
 
