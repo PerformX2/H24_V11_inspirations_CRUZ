@@ -8,8 +8,11 @@ L'exposition "Age of Union" se situe dans le cadre pour la communauté d'activis
 
 ![image Lien ruche](Medias/Ecran_ruche_lien_abeilles.jpg)
 
+
 # Justification de l'appréciation
 L'appréciation de l'oeuvre repose sur la transmission d'un message complexe de manière engageante et accessible. Il est possible de transmettre le message efficacement en se servant d'une structure qui soutient la vie sur terre. Dans ce cas, la ruche répresente l'équilibre de notre planète. L'équilibre est possible grâce à l'harmonie entre les écosystèmes. La métaphore de la ruche d'abeilles sert à représenter les enjeux climatiques. Cette représention offre une perspective nouvelle et poétique, incitant les spectateurs à réfléchir à l'impact de leurs actions sur l'environnement.
+
+![image Dôme_fabrication](Medias/Dôme_fabrication.jpg)
 
 # Mise en relation avec d'autres expériences, oeuvres ou dispositifs
 "The Hive" peut être comparée à d'autres installations artistiques qui utilisent des métaphores visuelles pour aborder des questions sociales ou environnementales. Par exemple, l'oeuvre "Rain Room" de Random International crée une expérience immersive où les visiteurs essayent de toucher la pluie artificielle. "Rain Room" et "The Hive" suscitant une réflexion sur la relation entre l'homme et la nature.
