@@ -35,7 +35,7 @@ Traitement audiovisuel, Installation multimédia et Conception d’une expérien
 
 
 ## Logiciel à utilisé
-TouchDesigner
+Le logiciel que j'ai choisi est TouchDesigner. C'est un logiciel qui permet 
 
 
 ## Préférence
@@ -44,7 +44,7 @@ TouchDesigner
 
 
 Technique ou composant choisi
-Je ne connaissais pas le logiciel Arduino IDE. C'est un logiciel qui permet de créer des objets électroniques interactifs grâce à des cartes électroniques dotées de microcontrôleurs.
+
 
 Ordre de préférence de 1 à 5
 Cette exposition est classée en quatrième place parce que, comparée aux autres projets, elle n'avait pas trop de choses qui me semblaient amusantes. J'apprécie le fait que l'image change en fonction du bouton que tu cliques et que les lumières du podium changent, mais c'est tout. Je trouve que cela ne rivalise pas avec des projets comme Canevas Cosmique ou Kigo.
